@@ -1,0 +1,637 @@
+[23-Jun-2023 07:52:40 UTC] WordPress database error Duplicate column name 'afbeelding_url' for query ALTER TABLE wp_autos ADD COLUMN afbeelding_url VARCHAR(255) NOT NULL AFTER prijs made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, WPCode_Auto_Insert_Everywhere->run_snippets, WPCode_Snippet_Execute->get_snippet_output, WPCode_Snippet_Execute_Type->get_output, WPCode_Snippet_Execute_PHP->prepare_snippet_output, WPCode_Snippet_Execute->safe_execute_php, eval
+[23-Jun-2023 07:52:41 UTC] WordPress database error Duplicate column name 'afbeelding_url' for query ALTER TABLE wp_autos ADD COLUMN afbeelding_url VARCHAR(255) NOT NULL AFTER prijs made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, WPCode_Auto_Insert_Everywhere->run_snippets, WPCode_Snippet_Execute->get_snippet_output, WPCode_Snippet_Execute_Type->get_output, WPCode_Snippet_Execute_PHP->prepare_snippet_output, WPCode_Snippet_Execute->safe_execute_php, eval
+[23-Jun-2023 07:52:43 UTC] WordPress database error Duplicate column name 'afbeelding_url' for query ALTER TABLE wp_autos ADD COLUMN afbeelding_url VARCHAR(255) NOT NULL AFTER prijs made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, WPCode_Auto_Insert_Everywhere->run_snippets, WPCode_Snippet_Execute->get_snippet_output, WPCode_Snippet_Execute_Type->get_output, WPCode_Snippet_Execute_PHP->prepare_snippet_output, WPCode_Snippet_Execute->safe_execute_php, eval
+[23-Jun-2023 07:52:43 UTC] WordPress database error Duplicate column name 'afbeelding_url' for query ALTER TABLE wp_autos ADD COLUMN afbeelding_url VARCHAR(255) NOT NULL AFTER prijs made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, WPCode_Auto_Insert_Everywhere->run_snippets, WPCode_Snippet_Execute->get_snippet_output, WPCode_Snippet_Execute_Type->get_output, WPCode_Snippet_Execute_PHP->prepare_snippet_output, WPCode_Snippet_Execute->safe_execute_php, eval
+[23-Jun-2023 07:52:43 UTC] WordPress database error Duplicate column name 'afbeelding_url' for query ALTER TABLE wp_autos ADD COLUMN afbeelding_url VARCHAR(255) NOT NULL AFTER prijs made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, WPCode_Auto_Insert_Everywhere->run_snippets, WPCode_Snippet_Execute->get_snippet_output, WPCode_Snippet_Execute_Type->get_output, WPCode_Snippet_Execute_PHP->prepare_snippet_output, WPCode_Snippet_Execute->safe_execute_php, eval
+[23-Jun-2023 07:52:45 UTC] WordPress database error Duplicate column name 'afbeelding_url' for query ALTER TABLE wp_autos ADD COLUMN afbeelding_url VARCHAR(255) NOT NULL AFTER prijs made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, WPCode_Auto_Insert_Everywhere->run_snippets, WPCode_Snippet_Execute->get_snippet_output, WPCode_Snippet_Execute_Type->get_output, WPCode_Snippet_Execute_PHP->prepare_snippet_output, WPCode_Snippet_Execute->safe_execute_php, eval
+[23-Jun-2023 07:52:50 UTC] WordPress database error Duplicate column name 'afbeelding_url' for query ALTER TABLE wp_autos ADD COLUMN afbeelding_url VARCHAR(255) NOT NULL AFTER prijs made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, WPCode_Auto_Insert_Everywhere->run_snippets, WPCode_Snippet_Execute->get_snippet_output, WPCode_Snippet_Execute_Type->get_output, WPCode_Snippet_Execute_PHP->prepare_snippet_output, WPCode_Snippet_Execute->safe_execute_php, eval
+[23-Jun-2023 07:52:51 UTC] WordPress database error Duplicate column name 'afbeelding_url' for query ALTER TABLE wp_autos ADD COLUMN afbeelding_url VARCHAR(255) NOT NULL AFTER prijs made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, WPCode_Auto_Insert_Everywhere->run_snippets, WPCode_Snippet_Execute->get_snippet_output, WPCode_Snippet_Execute_Type->get_output, WPCode_Snippet_Execute_PHP->prepare_snippet_output, WPCode_Snippet_Execute->safe_execute_php, eval
+[23-Jun-2023 07:53:08 UTC] WordPress database error Duplicate column name 'afbeelding_url' for query ALTER TABLE wp_autos ADD COLUMN afbeelding_url VARCHAR(255) NOT NULL AFTER prijs made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, WPCode_Auto_Insert_Everywhere->run_snippets, WPCode_Snippet_Execute->get_snippet_output, WPCode_Snippet_Execute_Type->get_output, WPCode_Snippet_Execute_PHP->prepare_snippet_output, WPCode_Snippet_Execute->safe_execute_php, eval
+[23-Jun-2023 07:53:11 UTC] WordPress database error Duplicate column name 'afbeelding_url' for query ALTER TABLE wp_autos ADD COLUMN afbeelding_url VARCHAR(255) NOT NULL AFTER prijs made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, WPCode_Auto_Insert_Everywhere->run_snippets, WPCode_Snippet_Execute->get_snippet_output, WPCode_Snippet_Execute_Type->get_output, WPCode_Snippet_Execute_PHP->prepare_snippet_output, WPCode_Snippet_Execute->safe_execute_php, eval
+[23-Jun-2023 07:53:13 UTC] WordPress database error Duplicate column name 'afbeelding_url' for query ALTER TABLE wp_autos ADD COLUMN afbeelding_url VARCHAR(255) NOT NULL AFTER prijs made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, WPCode_Auto_Insert_Everywhere->run_snippets, WPCode_Snippet_Execute->get_snippet_output, WPCode_Snippet_Execute_Type->get_output, WPCode_Snippet_Execute_PHP->prepare_snippet_output, WPCode_Snippet_Execute->safe_execute_php, eval
+[23-Jun-2023 07:53:14 UTC] WordPress database error Duplicate column name 'afbeelding_url' for query ALTER TABLE wp_autos ADD COLUMN afbeelding_url VARCHAR(255) NOT NULL AFTER prijs made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, WPCode_Auto_Insert_Everywhere->run_snippets, WPCode_Snippet_Execute->get_snippet_output, WPCode_Snippet_Execute_Type->get_output, WPCode_Snippet_Execute_PHP->prepare_snippet_output, WPCode_Snippet_Execute->safe_execute_php, eval
+[23-Jun-2023 07:54:28 UTC] PHP Fatal error:  Uncaught TypeError: basename(): Argument #1 ($path) must be of type string, array given in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code:23
+Stack trace:
+#0 D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code(23): basename(Array)
+#1 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(310): save_cf7_form_data(Object(WPCF7_ContactForm))
+#2 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#4 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(767): do_action_ref_array('wpcf7_before_se...', Array)
+#5 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(103): WPCF7_Submission->before_send_mail()
+#6 [internal function]: WPCF7_Submission->{closure}()
+#7 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\l10n.php(147): call_user_func(Object(Closure))
+#8 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(131): wpcf7_switch_locale('nl_NL', Object(Closure))
+#9 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(35): WPCF7_Submission->proceed()
+#10 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\contact-form.php(1048): WPCF7_Submission::get_instance(Object(WPCF7_ContactForm), Array)
+#11 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\rest-api.php(357): WPCF7_ContactForm->submit()
+#12 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1181): WPCF7_REST_Controller->create_feedback(Object(WP_REST_Request))
+#13 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/contact-form-7...', Array, NULL)
+#14 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#15 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api.php(410): WP_REST_Server->serve_request('/contact-form-7...')
+#16 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#17 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#18 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#19 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(399): do_action_ref_array('parse_request', Array)
+#20 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(780): WP->parse_request('')
+#21 D:\xampp\htdocs\autobedrijf\wp-includes\functions.php(1334): WP->main('')
+#22 D:\xampp\htdocs\autobedrijf\wp-blog-header.php(16): wp()
+#23 D:\xampp\htdocs\autobedrijf\index.php(17): require('D:\\xampp\\htdocs...')
+#24 {main}
+  thrown in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 23
+[23-Jun-2023 07:55:15 UTC] PHP Fatal error:  Uncaught TypeError: basename(): Argument #1 ($path) must be of type string, array given in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code:23
+Stack trace:
+#0 D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code(23): basename(Array)
+#1 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(310): save_cf7_form_data(Object(WPCF7_ContactForm))
+#2 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#4 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(767): do_action_ref_array('wpcf7_before_se...', Array)
+#5 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(103): WPCF7_Submission->before_send_mail()
+#6 [internal function]: WPCF7_Submission->{closure}()
+#7 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\l10n.php(147): call_user_func(Object(Closure))
+#8 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(131): wpcf7_switch_locale('nl_NL', Object(Closure))
+#9 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(35): WPCF7_Submission->proceed()
+#10 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\contact-form.php(1048): WPCF7_Submission::get_instance(Object(WPCF7_ContactForm), Array)
+#11 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\rest-api.php(357): WPCF7_ContactForm->submit()
+#12 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1181): WPCF7_REST_Controller->create_feedback(Object(WP_REST_Request))
+#13 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/contact-form-7...', Array, NULL)
+#14 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#15 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api.php(410): WP_REST_Server->serve_request('/contact-form-7...')
+#16 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#17 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#18 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#19 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(399): do_action_ref_array('parse_request', Array)
+#20 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(780): WP->parse_request('')
+#21 D:\xampp\htdocs\autobedrijf\wp-includes\functions.php(1334): WP->main('')
+#22 D:\xampp\htdocs\autobedrijf\wp-blog-header.php(16): wp()
+#23 D:\xampp\htdocs\autobedrijf\index.php(17): require('D:\\xampp\\htdocs...')
+#24 {main}
+  thrown in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 23
+[23-Jun-2023 08:02:20 UTC] File Path: D:\xampp\htdocs\autobedrijf/wp-content/uploads/wpcf7_uploads/0564151513/test_afbeelding.jpg
+[23-Jun-2023 08:02:20 UTC] Image URL: 
+[23-Jun-2023 08:04:03 UTC] File Path: D:\xampp\htdocs\autobedrijf/wp-content/uploads/wpcf7_uploads/0402111328/test_afbeelding.jpg
+[23-Jun-2023 08:04:03 UTC] Image URL: 
+[23-Jun-2023 08:04:03 UTC] Upload Directory: D:\xampp\htdocs\autobedrijf/wp-content/uploads/2023/06
+[23-Jun-2023 08:05:21 UTC] File Upload Error: 0
+[23-Jun-2023 08:05:21 UTC] File Path: D:\xampp\htdocs\autobedrijf/wp-content/uploads/wpcf7_uploads/1458489990/test_afbeelding.jpg
+[23-Jun-2023 08:05:21 UTC] Image URL: 
+[23-Jun-2023 08:05:21 UTC] Upload Directory: D:\xampp\htdocs\autobedrijf/wp-content/uploads/2023/06
+[23-Jun-2023 08:26:47 UTC] File Upload Error: 0
+[23-Jun-2023 08:26:47 UTC] File Path: D:\xampp\htdocs\autobedrijf/wp-content/uploads/wpcf7_uploads/0144480552/test_afbeelding.jpg
+[23-Jun-2023 08:26:47 UTC] Image URL: 
+[23-Jun-2023 08:26:47 UTC] Upload Directory: D:\xampp\htdocs\autobedrijf/wp-content/uploads/2023/06
+[23-Jun-2023 08:36:21 UTC] File Upload Error: 0
+[23-Jun-2023 08:36:21 UTC] File Path: D:\xampp\htdocs\autobedrijf/wp-content/uploads/wpcf7_uploads/1841662723/test_afbeelding.jpg
+[23-Jun-2023 08:36:21 UTC] Image URL: 
+[23-Jun-2023 08:36:21 UTC] Upload Directory: D:\xampp\htdocs\autobedrijf/wp-content/uploads/2023/06
+[23-Jun-2023 08:54:07 UTC] PHP Fatal error:  Uncaught TypeError: file_get_contents(): Argument #1 ($filename) must be of type string, array given in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code:18
+Stack trace:
+#0 D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code(18): file_get_contents(Array)
+#1 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(310): save_cf7_form_data(Object(WPCF7_ContactForm))
+#2 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#4 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(767): do_action_ref_array('wpcf7_before_se...', Array)
+#5 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(103): WPCF7_Submission->before_send_mail()
+#6 [internal function]: WPCF7_Submission->{closure}()
+#7 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\l10n.php(147): call_user_func(Object(Closure))
+#8 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(131): wpcf7_switch_locale('nl_NL', Object(Closure))
+#9 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(35): WPCF7_Submission->proceed()
+#10 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\contact-form.php(1048): WPCF7_Submission::get_instance(Object(WPCF7_ContactForm), Array)
+#11 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\rest-api.php(357): WPCF7_ContactForm->submit()
+#12 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1181): WPCF7_REST_Controller->create_feedback(Object(WP_REST_Request))
+#13 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/contact-form-7...', Array, NULL)
+#14 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#15 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api.php(410): WP_REST_Server->serve_request('/contact-form-7...')
+#16 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#17 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#18 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#19 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(399): do_action_ref_array('parse_request', Array)
+#20 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(780): WP->parse_request('')
+#21 D:\xampp\htdocs\autobedrijf\wp-includes\functions.php(1334): WP->main('')
+#22 D:\xampp\htdocs\autobedrijf\wp-blog-header.php(16): wp()
+#23 D:\xampp\htdocs\autobedrijf\index.php(17): require('D:\\xampp\\htdocs...')
+#24 {main}
+  thrown in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 18
+[23-Jun-2023 08:56:02 UTC] PHP Warning:  Undefined array key "url" in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 18
+[23-Jun-2023 08:56:02 UTC] PHP Deprecated:  file_get_contents(): Passing null to parameter #1 ($filename) of type string is deprecated in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 19
+[23-Jun-2023 08:56:02 UTC] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code:19
+Stack trace:
+#0 D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code(19): file_get_contents('')
+#1 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(310): save_cf7_form_data(Object(WPCF7_ContactForm))
+#2 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#4 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(767): do_action_ref_array('wpcf7_before_se...', Array)
+#5 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(103): WPCF7_Submission->before_send_mail()
+#6 [internal function]: WPCF7_Submission->{closure}()
+#7 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\l10n.php(147): call_user_func(Object(Closure))
+#8 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(131): wpcf7_switch_locale('nl_NL', Object(Closure))
+#9 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(35): WPCF7_Submission->proceed()
+#10 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\contact-form.php(1048): WPCF7_Submission::get_instance(Object(WPCF7_ContactForm), Array)
+#11 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\rest-api.php(357): WPCF7_ContactForm->submit()
+#12 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1181): WPCF7_REST_Controller->create_feedback(Object(WP_REST_Request))
+#13 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/contact-form-7...', Array, NULL)
+#14 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#15 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api.php(410): WP_REST_Server->serve_request('/contact-form-7...')
+#16 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#17 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#18 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#19 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(399): do_action_ref_array('parse_request', Array)
+#20 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(780): WP->parse_request('')
+#21 D:\xampp\htdocs\autobedrijf\wp-includes\functions.php(1334): WP->main('')
+#22 D:\xampp\htdocs\autobedrijf\wp-blog-header.php(16): wp()
+#23 D:\xampp\htdocs\autobedrijf\index.php(17): require('D:\\xampp\\htdocs...')
+#24 {main}
+  thrown in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 19
+[23-Jun-2023 08:57:47 UTC] PHP Fatal error:  Uncaught TypeError: basename(): Argument #1 ($path) must be of type string, array given in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code:18
+Stack trace:
+#0 D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code(18): basename(Array)
+#1 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(310): save_cf7_form_data(Object(WPCF7_ContactForm))
+#2 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#4 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(767): do_action_ref_array('wpcf7_before_se...', Array)
+#5 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(103): WPCF7_Submission->before_send_mail()
+#6 [internal function]: WPCF7_Submission->{closure}()
+#7 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\l10n.php(147): call_user_func(Object(Closure))
+#8 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(131): wpcf7_switch_locale('nl_NL', Object(Closure))
+#9 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(35): WPCF7_Submission->proceed()
+#10 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\contact-form.php(1048): WPCF7_Submission::get_instance(Object(WPCF7_ContactForm), Array)
+#11 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\rest-api.php(357): WPCF7_ContactForm->submit()
+#12 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1181): WPCF7_REST_Controller->create_feedback(Object(WP_REST_Request))
+#13 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/contact-form-7...', Array, NULL)
+#14 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#15 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api.php(410): WP_REST_Server->serve_request('/contact-form-7...')
+#16 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#17 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#18 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#19 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(399): do_action_ref_array('parse_request', Array)
+#20 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(780): WP->parse_request('')
+#21 D:\xampp\htdocs\autobedrijf\wp-includes\functions.php(1334): WP->main('')
+#22 D:\xampp\htdocs\autobedrijf\wp-blog-header.php(16): wp()
+#23 D:\xampp\htdocs\autobedrijf\index.php(17): require('D:\\xampp\\htdocs...')
+#24 {main}
+  thrown in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 18
+[23-Jun-2023 09:03:55 UTC] PHP Warning:  file_get_contents(http://localhost/autobedrijf/wp-content/uploads/test_afbeelding.jpg): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 25
+[23-Jun-2023 09:06:09 UTC] PHP Warning:  file_get_contents(http://localhost/autobedrijf/wp-content/uploads/test_afbeelding.jpg): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 25
+[23-Jun-2023 09:22:30 UTC] PHP Warning:  Undefined array key "type" in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 22
+[23-Jun-2023 09:22:30 UTC] PHP Warning:  Undefined array key "name" in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 23
+[23-Jun-2023 09:22:30 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in D:\xampp\htdocs\autobedrijf\wp-includes\formatting.php on line 1596
+[23-Jun-2023 09:22:30 UTC] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in D:\xampp\htdocs\autobedrijf\wp-includes\formatting.php on line 881
+[23-Jun-2023 09:22:30 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in D:\xampp\htdocs\autobedrijf\wp-includes\formatting.php on line 2035
+[23-Jun-2023 09:22:30 UTC] PHP Warning:  Undefined array key "file" in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 27
+[23-Jun-2023 09:22:30 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in D:\xampp\htdocs\autobedrijf\wp-includes\formatting.php on line 5632
+[23-Jun-2023 09:22:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_generate_attachment_metadata() in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code:31
+Stack trace:
+#0 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(310): save_cf7_form_data(Object(WPCF7_ContactForm))
+#1 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(767): do_action_ref_array('wpcf7_before_se...', Array)
+#4 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(103): WPCF7_Submission->before_send_mail()
+#5 [internal function]: WPCF7_Submission->{closure}()
+#6 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\l10n.php(147): call_user_func(Object(Closure))
+#7 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(131): wpcf7_switch_locale('nl_NL', Object(Closure))
+#8 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(35): WPCF7_Submission->proceed()
+#9 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\contact-form.php(1048): WPCF7_Submission::get_instance(Object(WPCF7_ContactForm), Array)
+#10 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\rest-api.php(357): WPCF7_ContactForm->submit()
+#11 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1181): WPCF7_REST_Controller->create_feedback(Object(WP_REST_Request))
+#12 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/contact-form-7...', Array, NULL)
+#13 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#14 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api.php(410): WP_REST_Server->serve_request('/contact-form-7...')
+#15 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#16 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#17 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#18 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(399): do_action_ref_array('parse_request', Array)
+#19 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(780): WP->parse_request('')
+#20 D:\xampp\htdocs\autobedrijf\wp-includes\functions.php(1334): WP->main('')
+#21 D:\xampp\htdocs\autobedrijf\wp-blog-header.php(16): wp()
+#22 D:\xampp\htdocs\autobedrijf\index.php(17): require('D:\\xampp\\htdocs...')
+#23 {main}
+  thrown in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 31
+[23-Jun-2023 09:24:01 UTC] PHP Warning:  Undefined array key "name" in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 20
+[23-Jun-2023 09:24:01 UTC] PHP Warning:  Undefined array key "tmp_name" in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 20
+[23-Jun-2023 09:24:01 UTC] PHP Deprecated:  file_get_contents(): Passing null to parameter #1 ($filename) of type string is deprecated in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 20
+[23-Jun-2023 09:24:01 UTC] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code:20
+Stack trace:
+#0 D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code(20): file_get_contents('')
+#1 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(310): save_cf7_form_data(Object(WPCF7_ContactForm))
+#2 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#4 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(767): do_action_ref_array('wpcf7_before_se...', Array)
+#5 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(103): WPCF7_Submission->before_send_mail()
+#6 [internal function]: WPCF7_Submission->{closure}()
+#7 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\l10n.php(147): call_user_func(Object(Closure))
+#8 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(131): wpcf7_switch_locale('nl_NL', Object(Closure))
+#9 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(35): WPCF7_Submission->proceed()
+#10 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\contact-form.php(1048): WPCF7_Submission::get_instance(Object(WPCF7_ContactForm), Array)
+#11 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\rest-api.php(357): WPCF7_ContactForm->submit()
+#12 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1181): WPCF7_REST_Controller->create_feedback(Object(WP_REST_Request))
+#13 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/contact-form-7...', Array, NULL)
+#14 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#15 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api.php(410): WP_REST_Server->serve_request('/contact-form-7...')
+#16 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#17 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#18 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#19 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(399): do_action_ref_array('parse_request', Array)
+#20 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(780): WP->parse_request('')
+#21 D:\xampp\htdocs\autobedrijf\wp-includes\functions.php(1334): WP->main('')
+#22 D:\xampp\htdocs\autobedrijf\wp-blog-header.php(16): wp()
+#23 D:\xampp\htdocs\autobedrijf\index.php(17): require('D:\\xampp\\htdocs...')
+#24 {main}
+  thrown in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 20
+[23-Jun-2023 09:26:05 UTC] PHP Warning:  Undefined array key "name" in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 20
+[23-Jun-2023 09:26:05 UTC] PHP Warning:  Undefined array key "tmp_name" in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 20
+[23-Jun-2023 09:26:05 UTC] PHP Deprecated:  file_get_contents(): Passing null to parameter #1 ($filename) of type string is deprecated in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 20
+[23-Jun-2023 09:26:05 UTC] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code:20
+Stack trace:
+#0 D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code(20): file_get_contents('')
+#1 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(310): save_cf7_form_data(Object(WPCF7_ContactForm))
+#2 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#4 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(767): do_action_ref_array('wpcf7_before_se...', Array)
+#5 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(103): WPCF7_Submission->before_send_mail()
+#6 [internal function]: WPCF7_Submission->{closure}()
+#7 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\l10n.php(147): call_user_func(Object(Closure))
+#8 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(131): wpcf7_switch_locale('nl_NL', Object(Closure))
+#9 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(35): WPCF7_Submission->proceed()
+#10 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\contact-form.php(1048): WPCF7_Submission::get_instance(Object(WPCF7_ContactForm), Array)
+#11 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\rest-api.php(357): WPCF7_ContactForm->submit()
+#12 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1181): WPCF7_REST_Controller->create_feedback(Object(WP_REST_Request))
+#13 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/contact-form-7...', Array, NULL)
+#14 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#15 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api.php(410): WP_REST_Server->serve_request('/contact-form-7...')
+#16 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#17 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#18 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#19 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(399): do_action_ref_array('parse_request', Array)
+#20 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(780): WP->parse_request('')
+#21 D:\xampp\htdocs\autobedrijf\wp-includes\functions.php(1334): WP->main('')
+#22 D:\xampp\htdocs\autobedrijf\wp-blog-header.php(16): wp()
+#23 D:\xampp\htdocs\autobedrijf\index.php(17): require('D:\\xampp\\htdocs...')
+#24 {main}
+  thrown in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 20
+[23-Jun-2023 09:31:54 UTC] PHP Warning:  Undefined array key "tmp_name" in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 15
+[23-Jun-2023 09:31:54 UTC] PHP Warning:  Undefined array key "name" in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 16
+[23-Jun-2023 09:31:54 UTC] PHP Deprecated:  parse_url(): Passing null to parameter #1 ($url) of type string is deprecated in D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-http.php on line 273
+[23-Jun-2023 09:31:54 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code:17
+Stack trace:
+#0 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(310): save_cf7_form_data(Object(WPCF7_ContactForm))
+#1 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(767): do_action_ref_array('wpcf7_before_se...', Array)
+#4 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(103): WPCF7_Submission->before_send_mail()
+#5 [internal function]: WPCF7_Submission->{closure}()
+#6 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\l10n.php(147): call_user_func(Object(Closure))
+#7 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(131): wpcf7_switch_locale('nl_NL', Object(Closure))
+#8 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(35): WPCF7_Submission->proceed()
+#9 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\contact-form.php(1048): WPCF7_Submission::get_instance(Object(WPCF7_ContactForm), Array)
+#10 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\rest-api.php(357): WPCF7_ContactForm->submit()
+#11 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1181): WPCF7_REST_Controller->create_feedback(Object(WP_REST_Request))
+#12 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/contact-form-7...', Array, NULL)
+#13 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#14 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api.php(410): WP_REST_Server->serve_request('/contact-form-7...')
+#15 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#16 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#17 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#18 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(399): do_action_ref_array('parse_request', Array)
+#19 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(780): WP->parse_request('')
+#20 D:\xampp\htdocs\autobedrijf\wp-includes\functions.php(1334): WP->main('')
+#21 D:\xampp\htdocs\autobedrijf\wp-blog-header.php(16): wp()
+#22 D:\xampp\htdocs\autobedrijf\index.php(17): require('D:\\xampp\\htdocs...')
+#23 {main}
+  thrown in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 17
+[23-Jun-2023 09:32:51 UTC] PHP Warning:  Undefined array key "tmp_name" in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 15
+[23-Jun-2023 09:32:51 UTC] PHP Warning:  Undefined array key "name" in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 16
+[23-Jun-2023 09:32:51 UTC] PHP Deprecated:  file_get_contents(): Passing null to parameter #1 ($filename) of type string is deprecated in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 17
+[23-Jun-2023 09:32:51 UTC] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code:17
+Stack trace:
+#0 D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code(17): file_get_contents('')
+#1 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(310): save_cf7_form_data(Object(WPCF7_ContactForm))
+#2 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#4 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(767): do_action_ref_array('wpcf7_before_se...', Array)
+#5 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(103): WPCF7_Submission->before_send_mail()
+#6 [internal function]: WPCF7_Submission->{closure}()
+#7 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\l10n.php(147): call_user_func(Object(Closure))
+#8 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(131): wpcf7_switch_locale('nl_NL', Object(Closure))
+#9 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(35): WPCF7_Submission->proceed()
+#10 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\contact-form.php(1048): WPCF7_Submission::get_instance(Object(WPCF7_ContactForm), Array)
+#11 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\rest-api.php(357): WPCF7_ContactForm->submit()
+#12 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1181): WPCF7_REST_Controller->create_feedback(Object(WP_REST_Request))
+#13 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/contact-form-7...', Array, NULL)
+#14 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#15 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api.php(410): WP_REST_Server->serve_request('/contact-form-7...')
+#16 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#17 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#18 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#19 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(399): do_action_ref_array('parse_request', Array)
+#20 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(780): WP->parse_request('')
+#21 D:\xampp\htdocs\autobedrijf\wp-includes\functions.php(1334): WP->main('')
+#22 D:\xampp\htdocs\autobedrijf\wp-blog-header.php(16): wp()
+#23 D:\xampp\htdocs\autobedrijf\index.php(17): require('D:\\xampp\\htdocs...')
+#24 {main}
+  thrown in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 17
+[23-Jun-2023 09:34:20 UTC] PHP Warning:  Undefined array key "tmp_name" in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 15
+[23-Jun-2023 09:34:20 UTC] PHP Warning:  Undefined array key "name" in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 16
+[23-Jun-2023 09:42:38 UTC] PHP Warning:  Undefined array key "tmp_name" in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 15
+[23-Jun-2023 09:42:38 UTC] PHP Warning:  Undefined array key "name" in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 16
+[23-Jun-2023 09:49:29 UTC] PHP Warning:  Undefined array key "tmp_name" in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 15
+[23-Jun-2023 09:49:29 UTC] PHP Warning:  Undefined array key "name" in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 16
+[23-Jun-2023 09:52:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WPCF7_ContactForm::uploaded_files() in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code:4
+Stack trace:
+#0 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(310): move_cf7_uploaded_file_to_media_library(Object(WPCF7_ContactForm))
+#1 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(767): do_action_ref_array('wpcf7_before_se...', Array)
+#4 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(103): WPCF7_Submission->before_send_mail()
+#5 [internal function]: WPCF7_Submission->{closure}()
+#6 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\l10n.php(147): call_user_func(Object(Closure))
+#7 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(131): wpcf7_switch_locale('nl_NL', Object(Closure))
+#8 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(35): WPCF7_Submission->proceed()
+#9 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\contact-form.php(1048): WPCF7_Submission::get_instance(Object(WPCF7_ContactForm), Array)
+#10 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\rest-api.php(357): WPCF7_ContactForm->submit()
+#11 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1181): WPCF7_REST_Controller->create_feedback(Object(WP_REST_Request))
+#12 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/contact-form-7...', Array, NULL)
+#13 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#14 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api.php(410): WP_REST_Server->serve_request('/contact-form-7...')
+#15 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#16 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#17 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#18 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(399): do_action_ref_array('parse_request', Array)
+#19 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(780): WP->parse_request('')
+#20 D:\xampp\htdocs\autobedrijf\wp-includes\functions.php(1334): WP->main('')
+#21 D:\xampp\htdocs\autobedrijf\wp-blog-header.php(16): wp()
+#22 D:\xampp\htdocs\autobedrijf\index.php(17): require('D:\\xampp\\htdocs...')
+#23 {main}
+  thrown in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 4
+[23-Jun-2023 09:53:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WPCF7_ContactForm::uploaded_files() in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code:4
+Stack trace:
+#0 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(310): move_cf7_uploaded_file_to_media_library(Object(WPCF7_ContactForm))
+#1 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(767): do_action_ref_array('wpcf7_before_se...', Array)
+#4 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(103): WPCF7_Submission->before_send_mail()
+#5 [internal function]: WPCF7_Submission->{closure}()
+#6 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\l10n.php(147): call_user_func(Object(Closure))
+#7 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(131): wpcf7_switch_locale('nl_NL', Object(Closure))
+#8 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(35): WPCF7_Submission->proceed()
+#9 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\contact-form.php(1048): WPCF7_Submission::get_instance(Object(WPCF7_ContactForm), Array)
+#10 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\rest-api.php(357): WPCF7_ContactForm->submit()
+#11 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1181): WPCF7_REST_Controller->create_feedback(Object(WP_REST_Request))
+#12 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/contact-form-7...', Array, NULL)
+#13 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#14 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api.php(410): WP_REST_Server->serve_request('/contact-form-7...')
+#15 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#16 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#17 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#18 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(399): do_action_ref_array('parse_request', Array)
+#19 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(780): WP->parse_request('')
+#20 D:\xampp\htdocs\autobedrijf\wp-includes\functions.php(1334): WP->main('')
+#21 D:\xampp\htdocs\autobedrijf\wp-blog-header.php(16): wp()
+#22 D:\xampp\htdocs\autobedrijf\index.php(17): require('D:\\xampp\\htdocs...')
+#23 {main}
+  thrown in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 4
+[23-Jun-2023 09:56:20 UTC] PHP Fatal error:  Cannot redeclare move_cf7_uploaded_file_to_media_library() (previously declared in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code:3) in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 3
+[23-Jun-2023 09:56:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WPCF7_ContactForm::uploaded_files() in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code:4
+Stack trace:
+#0 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(310): move_cf7_uploaded_file_to_media_library(Object(WPCF7_ContactForm))
+#1 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(767): do_action_ref_array('wpcf7_before_se...', Array)
+#4 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(103): WPCF7_Submission->before_send_mail()
+#5 [internal function]: WPCF7_Submission->{closure}()
+#6 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\l10n.php(147): call_user_func(Object(Closure))
+#7 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(131): wpcf7_switch_locale('nl_NL', Object(Closure))
+#8 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(35): WPCF7_Submission->proceed()
+#9 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\contact-form.php(1048): WPCF7_Submission::get_instance(Object(WPCF7_ContactForm), Array)
+#10 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\rest-api.php(357): WPCF7_ContactForm->submit()
+#11 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1181): WPCF7_REST_Controller->create_feedback(Object(WP_REST_Request))
+#12 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/contact-form-7...', Array, NULL)
+#13 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#14 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api.php(410): WP_REST_Server->serve_request('/contact-form-7...')
+#15 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#16 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#17 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#18 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(399): do_action_ref_array('parse_request', Array)
+#19 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(780): WP->parse_request('')
+#20 D:\xampp\htdocs\autobedrijf\wp-includes\functions.php(1334): WP->main('')
+#21 D:\xampp\htdocs\autobedrijf\wp-blog-header.php(16): wp()
+#22 D:\xampp\htdocs\autobedrijf\index.php(17): require('D:\\xampp\\htdocs...')
+#23 {main}
+  thrown in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 4
+[23-Jun-2023 09:57:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WPCF7_ContactForm::uploaded_files() in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code:4
+Stack trace:
+#0 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(310): move_cf7_uploaded_file_to_media_library(Object(WPCF7_ContactForm))
+#1 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(767): do_action_ref_array('wpcf7_before_se...', Array)
+#4 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(103): WPCF7_Submission->before_send_mail()
+#5 [internal function]: WPCF7_Submission->{closure}()
+#6 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\l10n.php(147): call_user_func(Object(Closure))
+#7 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(131): wpcf7_switch_locale('nl_NL', Object(Closure))
+#8 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(35): WPCF7_Submission->proceed()
+#9 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\contact-form.php(1048): WPCF7_Submission::get_instance(Object(WPCF7_ContactForm), Array)
+#10 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\rest-api.php(357): WPCF7_ContactForm->submit()
+#11 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1181): WPCF7_REST_Controller->create_feedback(Object(WP_REST_Request))
+#12 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/contact-form-7...', Array, NULL)
+#13 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#14 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api.php(410): WP_REST_Server->serve_request('/contact-form-7...')
+#15 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#16 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#17 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#18 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(399): do_action_ref_array('parse_request', Array)
+#19 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(780): WP->parse_request('')
+#20 D:\xampp\htdocs\autobedrijf\wp-includes\functions.php(1334): WP->main('')
+#21 D:\xampp\htdocs\autobedrijf\wp-blog-header.php(16): wp()
+#22 D:\xampp\htdocs\autobedrijf\index.php(17): require('D:\\xampp\\htdocs...')
+#23 {main}
+  thrown in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 4
+[23-Jun-2023 09:58:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WPCF7_Submission::get_uploaded_files() in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code:7
+Stack trace:
+#0 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(310): move_cf7_uploaded_file_to_media_library(Object(WPCF7_ContactForm))
+#1 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(767): do_action_ref_array('wpcf7_before_se...', Array)
+#4 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(103): WPCF7_Submission->before_send_mail()
+#5 [internal function]: WPCF7_Submission->{closure}()
+#6 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\l10n.php(147): call_user_func(Object(Closure))
+#7 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(131): wpcf7_switch_locale('nl_NL', Object(Closure))
+#8 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(35): WPCF7_Submission->proceed()
+#9 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\contact-form.php(1048): WPCF7_Submission::get_instance(Object(WPCF7_ContactForm), Array)
+#10 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\rest-api.php(357): WPCF7_ContactForm->submit()
+#11 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1181): WPCF7_REST_Controller->create_feedback(Object(WP_REST_Request))
+#12 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/contact-form-7...', Array, NULL)
+#13 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#14 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api.php(410): WP_REST_Server->serve_request('/contact-form-7...')
+#15 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#16 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#17 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#18 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(399): do_action_ref_array('parse_request', Array)
+#19 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(780): WP->parse_request('')
+#20 D:\xampp\htdocs\autobedrijf\wp-includes\functions.php(1334): WP->main('')
+#21 D:\xampp\htdocs\autobedrijf\wp-blog-header.php(16): wp()
+#22 D:\xampp\htdocs\autobedrijf\index.php(17): require('D:\\xampp\\htdocs...')
+#23 {main}
+  thrown in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 7
+[23-Jun-2023 10:03:17 UTC] PHP Warning:  Undefined array key "uploadyourfile" in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 27
+[23-Jun-2023 10:03:17 UTC] PHP Warning:  Undefined array key "uploadyourfile" in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 28
+[23-Jun-2023 10:03:17 UTC] PHP Deprecated:  file_get_contents(): Passing null to parameter #1 ($filename) of type string is deprecated in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 29
+[23-Jun-2023 10:03:17 UTC] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code:29
+Stack trace:
+#0 D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code(29): file_get_contents('')
+#1 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(310): cf7_create_post(Object(WPCF7_ContactForm))
+#2 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#4 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(767): do_action_ref_array('wpcf7_before_se...', Array)
+#5 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(103): WPCF7_Submission->before_send_mail()
+#6 [internal function]: WPCF7_Submission->{closure}()
+#7 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\l10n.php(147): call_user_func(Object(Closure))
+#8 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(131): wpcf7_switch_locale('nl_NL', Object(Closure))
+#9 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(35): WPCF7_Submission->proceed()
+#10 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\contact-form.php(1048): WPCF7_Submission::get_instance(Object(WPCF7_ContactForm), Array)
+#11 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\rest-api.php(357): WPCF7_ContactForm->submit()
+#12 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1181): WPCF7_REST_Controller->create_feedback(Object(WP_REST_Request))
+#13 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/contact-form-7...', Array, NULL)
+#14 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#15 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api.php(410): WP_REST_Server->serve_request('/contact-form-7...')
+#16 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#17 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#18 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#19 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(399): do_action_ref_array('parse_request', Array)
+#20 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(780): WP->parse_request('')
+#21 D:\xampp\htdocs\autobedrijf\wp-includes\functions.php(1334): WP->main('')
+#22 D:\xampp\htdocs\autobedrijf\wp-blog-header.php(16): wp()
+#23 D:\xampp\htdocs\autobedrijf\index.php(17): require('D:\\xampp\\htdocs...')
+#24 {main}
+  thrown in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 29
+[23-Jun-2023 10:05:32 UTC] PHP Fatal error:  Uncaught TypeError: file_get_contents(): Argument #1 ($filename) must be of type string, array given in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code:29
+Stack trace:
+#0 D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code(29): file_get_contents(Array)
+#1 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(310): cf7_create_post(Object(WPCF7_ContactForm))
+#2 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#4 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(767): do_action_ref_array('wpcf7_before_se...', Array)
+#5 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(103): WPCF7_Submission->before_send_mail()
+#6 [internal function]: WPCF7_Submission->{closure}()
+#7 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\l10n.php(147): call_user_func(Object(Closure))
+#8 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(131): wpcf7_switch_locale('nl_NL', Object(Closure))
+#9 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(35): WPCF7_Submission->proceed()
+#10 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\contact-form.php(1048): WPCF7_Submission::get_instance(Object(WPCF7_ContactForm), Array)
+#11 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\rest-api.php(357): WPCF7_ContactForm->submit()
+#12 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1181): WPCF7_REST_Controller->create_feedback(Object(WP_REST_Request))
+#13 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/contact-form-7...', Array, NULL)
+#14 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#15 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api.php(410): WP_REST_Server->serve_request('/contact-form-7...')
+#16 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#17 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#18 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#19 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(399): do_action_ref_array('parse_request', Array)
+#20 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(780): WP->parse_request('')
+#21 D:\xampp\htdocs\autobedrijf\wp-includes\functions.php(1334): WP->main('')
+#22 D:\xampp\htdocs\autobedrijf\wp-blog-header.php(16): wp()
+#23 D:\xampp\htdocs\autobedrijf\index.php(17): require('D:\\xampp\\htdocs...')
+#24 {main}
+  thrown in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 29
+[23-Jun-2023 10:08:21 UTC] PHP Warning:  Undefined array key "url" in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 32
+[23-Jun-2023 10:08:21 UTC] PHP Warning:  Undefined array key "file" in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 33
+[23-Jun-2023 10:33:31 UTC] PHP Warning:  Undefined variable $afbeelding_url in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 19
+[23-Jun-2023 10:33:31 UTC] PHP Warning:  Undefined variable $afbeelding_url in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 19
+[23-Jun-2023 10:33:31 UTC] PHP Warning:  Undefined variable $afbeelding_url in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 19
+[23-Jun-2023 10:33:31 UTC] PHP Warning:  Undefined variable $afbeelding_url in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 19
+[23-Jun-2023 10:33:31 UTC] PHP Warning:  Undefined variable $afbeelding_url in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 19
+[23-Jun-2023 10:33:31 UTC] PHP Warning:  Undefined variable $afbeelding_url in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 19
+[23-Jun-2023 10:33:31 UTC] PHP Warning:  Undefined variable $afbeelding_url in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 19
+[23-Jun-2023 10:33:31 UTC] PHP Warning:  Undefined variable $afbeelding_url in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 19
+[23-Jun-2023 10:33:31 UTC] PHP Warning:  Undefined variable $afbeelding_url in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 19
+[23-Jun-2023 10:33:31 UTC] PHP Warning:  Undefined variable $afbeelding_url in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 19
+[23-Jun-2023 10:33:31 UTC] PHP Warning:  Undefined variable $afbeelding_url in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 19
+[23-Jun-2023 10:33:31 UTC] PHP Warning:  Undefined variable $afbeelding_url in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 19
+[23-Jun-2023 10:33:31 UTC] PHP Warning:  Undefined variable $afbeelding_url in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 19
+[23-Jun-2023 10:33:31 UTC] PHP Warning:  Undefined variable $afbeelding_url in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 19
+[23-Jun-2023 10:33:31 UTC] PHP Warning:  Undefined variable $afbeelding_url in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 19
+[23-Jun-2023 10:33:31 UTC] PHP Warning:  Undefined variable $afbeelding_url in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 19
+[23-Jun-2023 10:33:31 UTC] PHP Warning:  Undefined variable $afbeelding_url in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 19
+[23-Jun-2023 10:33:31 UTC] PHP Warning:  Undefined variable $afbeelding_url in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 19
+[23-Jun-2023 10:33:31 UTC] PHP Warning:  Undefined variable $afbeelding_url in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 19
+[23-Jun-2023 10:33:31 UTC] PHP Warning:  Undefined variable $afbeelding_url in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 19
+[23-Jun-2023 10:33:31 UTC] PHP Warning:  Undefined variable $afbeelding_url in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 19
+[23-Jun-2023 10:33:31 UTC] PHP Warning:  Undefined variable $afbeelding_url in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 19
+[23-Jun-2023 10:33:31 UTC] PHP Warning:  Undefined variable $afbeelding_url in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 19
+[23-Jun-2023 10:33:31 UTC] PHP Warning:  Undefined variable $afbeelding_url in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 19
+[23-Jun-2023 10:33:31 UTC] PHP Warning:  Undefined variable $afbeelding_url in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 19
+[23-Jun-2023 10:33:31 UTC] PHP Warning:  Undefined variable $afbeelding_url in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 19
+[23-Jun-2023 10:33:31 UTC] PHP Warning:  Undefined variable $afbeelding_url in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 19
+[23-Jun-2023 10:33:31 UTC] PHP Warning:  Undefined variable $afbeelding_url in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 19
+[23-Jun-2023 10:33:31 UTC] PHP Warning:  Undefined variable $afbeelding_url in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 19
+[23-Jun-2023 10:34:10 UTC] PHP Warning:  Undefined variable $afbeelding_url in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 19
+[23-Jun-2023 10:34:10 UTC] PHP Warning:  Undefined variable $afbeelding_url in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 19
+[23-Jun-2023 10:34:10 UTC] PHP Warning:  Undefined variable $afbeelding_url in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 19
+[23-Jun-2023 10:34:10 UTC] PHP Warning:  Undefined variable $afbeelding_url in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 19
+[23-Jun-2023 10:34:10 UTC] PHP Warning:  Undefined variable $afbeelding_url in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 19
+[23-Jun-2023 10:34:10 UTC] PHP Warning:  Undefined variable $afbeelding_url in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 19
+[23-Jun-2023 11:06:10 UTC] PHP Warning:  Undefined array key "image" in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 17
+[23-Jun-2023 11:06:10 UTC] PHP Warning:  Trying to access array offset on value of type null in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 17
+[23-Jun-2023 11:06:10 UTC] WordPress database error Unknown column 'image' in 'field list' for query INSERT INTO `wp_autos` (`kenteken`, `merk`, `handelsbenaming`, `omschrijving`, `prijs`, `image`) VALUES ('64-XJ-ZZ', 'MERCEDES-BENZ', 'C 200 KOMPRESSOR', 'asd', '1221', NULL) made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, WPCF7_REST_Controller->create_feedback, WPCF7_ContactForm->submit, WPCF7_Submission::get_instance, WPCF7_Submission->proceed, wpcf7_switch_locale, call_user_func, WPCF7_Submission->{closure}, WPCF7_Submission->before_send_mail, do_action_ref_array('wpcf7_before_send_mail'), WP_Hook->do_action, WP_Hook->apply_filters, save_cf7_form_data
+[23-Jun-2023 11:12:30 UTC] PHP Warning:  Undefined property: stdClass::$afbeelding_filename in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 16
+[23-Jun-2023 11:12:30 UTC] PHP Warning:  Undefined variable $afbeelding in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 28
+[23-Jun-2023 11:12:52 UTC] PHP Warning:  Undefined property: stdClass::$afbeelding_filename in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 16
+[23-Jun-2023 11:12:53 UTC] PHP Warning:  Undefined property: stdClass::$afbeelding_filename in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 16
+[23-Jun-2023 11:13:41 UTC] PHP Warning:  Undefined property: stdClass::$afbeelding_filename in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 16
+[23-Jun-2023 11:13:41 UTC] PHP Warning:  Undefined variable $image_filename in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 23
+[23-Jun-2023 11:13:59 UTC] PHP Warning:  Undefined property: stdClass::$afbeelding_filename in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 16
+[23-Jun-2023 11:13:59 UTC] PHP Warning:  Undefined variable $image_filename in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 23
+[23-Jun-2023 11:14:18 UTC] PHP Warning:  Undefined property: stdClass::$afbeelding_filename in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 16
+[23-Jun-2023 11:14:18 UTC] PHP Warning:  Undefined variable $image_filename in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 23
+[23-Jun-2023 11:14:56 UTC] PHP Warning:  Undefined property: stdClass::$afbeelding_filename in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 16
+[23-Jun-2023 11:18:31 UTC] PHP Warning:  Undefined property: stdClass::$afbeelding_filename in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 16
+[23-Jun-2023 11:18:31 UTC] PHP Warning:  Undefined variable $upload_base_url in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 20
+[23-Jun-2023 11:19:01 UTC] PHP Warning:  Undefined property: stdClass::$afbeelding_filename in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 16
+[23-Jun-2023 11:25:37 UTC] PHP Warning:  Undefined array key "image" in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 17
+[23-Jun-2023 11:25:37 UTC] PHP Warning:  Trying to access array offset on value of type null in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 17
+[23-Jun-2023 11:25:37 UTC] PHP Deprecated:  file_exists(): Passing null to parameter #1 ($filename) of type string is deprecated in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 48
+[23-Jun-2023 11:26:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_handle_sideload() in D:\xampp\htdocs\autobedrijf\wp-admin\includes\media.php:462
+Stack trace:
+#0 D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code(56): media_handle_sideload(Array, 0)
+#1 D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code(20): store_file_upload_to_media_library('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(310): save_cf7_form_data(Object(WPCF7_ContactForm))
+#3 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#5 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(767): do_action_ref_array('wpcf7_before_se...', Array)
+#6 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(103): WPCF7_Submission->before_send_mail()
+#7 [internal function]: WPCF7_Submission->{closure}()
+#8 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\l10n.php(147): call_user_func(Object(Closure))
+#9 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(131): wpcf7_switch_locale('nl_NL', Object(Closure))
+#10 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(35): WPCF7_Submission->proceed()
+#11 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\contact-form.php(1048): WPCF7_Submission::get_instance(Object(WPCF7_ContactForm), Array)
+#12 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\rest-api.php(357): WPCF7_ContactForm->submit()
+#13 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1181): WPCF7_REST_Controller->create_feedback(Object(WP_REST_Request))
+#14 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/contact-form-7...', Array, NULL)
+#15 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#16 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api.php(410): WP_REST_Server->serve_request('/contact-form-7...')
+#17 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#18 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#19 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#20 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(399): do_action_ref_array('parse_request', Array)
+#21 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(780): WP->parse_request('')
+#22 D:\xampp\htdocs\autobedrijf\wp-includes\functions.php(1334): WP->main('')
+#23 D:\xampp\htdocs\autobedrijf\wp-blog-header.php(16): wp()
+#24 D:\xampp\htdocs\autobedrijf\index.php(17): require('D:\\xampp\\htdocs...')
+#25 {main}
+  thrown in D:\xampp\htdocs\autobedrijf\wp-admin\includes\media.php on line 462
+[23-Jun-2023 11:28:36 UTC] PHP Warning:  Undefined array key "image" in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 17
+[23-Jun-2023 11:28:36 UTC] PHP Warning:  Trying to access array offset on value of type null in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 17
+[23-Jun-2023 11:28:36 UTC] PHP Deprecated:  file_exists(): Passing null to parameter #1 ($filename) of type string is deprecated in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 48
+[23-Jun-2023 11:50:09 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 23
+[23-Jun-2023 11:50:09 UTC] WordPress database error Unknown column 'image_url' in 'field list' for query INSERT INTO `wp_autos` (`kenteken`, `merk`, `handelsbenaming`, `omschrijving`, `prijs`, `image_url`) VALUES ('90-ZPT-7', 'PEUGEOT', '208', 'asd', '21', 'http://localhost/autobedrijf/wp-content/uploads/Array') made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, WPCF7_REST_Controller->create_feedback, WPCF7_ContactForm->submit, WPCF7_Submission::get_instance, WPCF7_Submission->proceed, wpcf7_switch_locale, call_user_func, WPCF7_Submission->{closure}, WPCF7_Submission->before_send_mail, do_action_ref_array('wpcf7_before_send_mail'), WP_Hook->do_action, WP_Hook->apply_filters, save_cf7_form_data
+[23-Jun-2023 11:50:50 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 23
+[23-Jun-2023 11:54:26 UTC] PHP Warning:  Array to string conversion in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 32
+[23-Jun-2023 11:56:41 UTC] WordPress database error Unknown column 'image_url' in 'field list' for query INSERT INTO `wp_autos` (`kenteken`, `merk`, `handelsbenaming`, `omschrijving`, `prijs`, `image_url`) VALUES ('64-XJ-ZZ', 'MERCEDES-BENZ', 'C 200 KOMPRESSOR', 'asd', '12', '') made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, WPCF7_REST_Controller->create_feedback, WPCF7_ContactForm->submit, WPCF7_Submission::get_instance, WPCF7_Submission->proceed, wpcf7_switch_locale, call_user_func, WPCF7_Submission->{closure}, WPCF7_Submission->before_send_mail, do_action_ref_array('wpcf7_before_send_mail'), WP_Hook->do_action, WP_Hook->apply_filters, save_cf7_form_data
+[23-Jun-2023 12:01:16 UTC] PHP Warning:  Undefined property: stdClass::$afbeelding_id in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 16
+[23-Jun-2023 12:01:16 UTC] PHP Warning:  Undefined property: stdClass::$afbeelding_id in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 16
+[23-Jun-2023 12:01:16 UTC] PHP Warning:  Undefined property: stdClass::$afbeelding_id in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 16
+[23-Jun-2023 12:01:16 UTC] PHP Warning:  Undefined property: stdClass::$afbeelding_id in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 16
+[23-Jun-2023 12:01:16 UTC] PHP Warning:  Undefined property: stdClass::$afbeelding_id in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 16
+[23-Jun-2023 12:01:16 UTC] PHP Warning:  Undefined property: stdClass::$afbeelding_id in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 16
+[23-Jun-2023 12:10:13 UTC] PHP Warning:  Undefined variable $upload_dir in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 29
+[23-Jun-2023 12:10:13 UTC] PHP Warning:  Trying to access array offset on value of type null in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 29
+[23-Jun-2023 12:10:13 UTC] PHP Warning:  Undefined variable $file_name in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code on line 29
+[27-Jun-2023 16:58:18 UTC] Cron reschedule event fout voor hook: action_scheduler_run_queue, foutcode: invalid_schedule, foutmelding: Gebeurtenis schema bestaat niet., gegevens: {"schedule":"every_minute","args":["WP Cron"],"interval":60}

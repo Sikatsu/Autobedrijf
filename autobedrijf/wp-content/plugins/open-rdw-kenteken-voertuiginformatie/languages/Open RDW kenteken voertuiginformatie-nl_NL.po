@@ -1,0 +1,847 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Open RDW kenteken voertuiginformatie\n"
+"POT-Creation-Date: 2020-03-09 09:55+0100\n"
+"PO-Revision-Date: 2020-03-09 10:08+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: open-rdw-kenteken-voertuiginformatie.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-open-rdw-kenteken-voertuiginformatie-admin.php:100
+msgid "You are using the free version of our Open RDW plugin."
+msgstr "Je gebruikt de gratis versie van onze OpenRDW plugin."
+
+#: admin/class-open-rdw-kenteken-voertuiginformatie-admin.php:101
+msgid ""
+"If you like this plugin you can donate us via paypal or iDeal or buy the "
+"premium version of this plugin."
+msgstr ""
+"Als je deze plugin waardeert overweeg dan te doneren via PayPal of iDeal. Of "
+"koop de premium versie van deze plugin."
+
+#: admin/class-open-rdw-kenteken-voertuiginformatie-admin.php:102
+msgid "Check this page for more information."
+msgstr "Bekijk deze pagina voor meer informatie"
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:37
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:38
+msgid ""
+"Thanks for using our Opendata RDW WordPress plugin. You can use this plugin "
+"in a couple of different ways and these are explained in more detail in the "
+"following tabs."
+msgstr ""
+"Leuk dat je gebruik maakt van onze OpenRDW WordPress plugin. De plugin biedt "
+"verschillende mogelijkheden. Hier boven in de tabbladen staan een aantal "
+"omschreven."
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:39
+msgid ""
+"You can display this plugin by using Open RDW widgets in your sidebar, next "
+"to widgets there is also a possibility to use the WYSIWYG editor to add a "
+"shortcode to your page or post (or different CPT). It is also possible to "
+"integrate the plugin with Contact Form 7."
+msgstr ""
+"Je kunt de plugin gebruiken in combinatie met de Open RDW widget, deze kan "
+"bijvoorbeeld weergegeven worden in één of meerdere sidecars. Daarnaast kun "
+"je binnen de WYSIWYG-editor van pagina's en berichten (of andere CPT) "
+"gebruik maken van de shortcode functie. Als laatste is de Open RDW plugin te "
+"gebruiken in combinatie met een formulier in Contact Form 7."
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:40
+msgid ""
+"By using this plugin with Contact Form 7 you can easily create \"stock forms"
+"\". The functionality from Contact Form 7 stays the same, this means you can "
+"also add extra fields or attachments (pictures)."
+msgstr ""
+"Door het gebruik van de plugin in Contact Form 7 kun je op een eenvoudige "
+"manier \"inkoopformulieren\" maken. De werking van Contact Form 7 blijft "
+"geheel identiek aan hoe deze was. Het plaatsen van extra velden en/of "
+"bijlagen (zoals foto's) blijft dus mogelijk."
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:43
+msgid ""
+"At the moment you are using the free version of our Open Data RDW plugin, in "
+"this version you have 20 different fields to display and only the functions "
+"mentioned above are available. Would you like to have more options "
+"available? Then this is possible. "
+msgstr ""
+"Momenteel gebruik je de gratis variant van de OpenRDW plugin, hierin zijn 20 "
+"velden ondersteund en zijn bovenstaande koppelingen mogelijk. Wil je toch "
+"meer mogelijkheden met de plugin? Dan kan dat."
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:44
+msgid ""
+"The Open Data RDW-Premium plugin works identical to this version, but offers "
+"support for WooCommerce, has over 60 different fields to display (e.g. fuel "
+"information, body work information). The premium version also allows you to "
+"sort the fields and categories as you wish."
+msgstr ""
+"De OpenRDW Pro plugin werkt identiek aan deze variant, maar biedt "
+"ondersteuning voor WooCommerce, ruim 60 velden via diverse side-calls en "
+"geeft je de mogelijkheid om velden te herordenen (bijvoorbeeld binnen de "
+"sidebar of i.c.m. de shortcodes)."
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:45
+msgid ""
+"This way you can request even more data and you can decide yourself in what "
+"order you would like it to be displayed."
+msgstr ""
+"Op deze manier kun je nóg meer data ophalen en filteren en bepaal je zelf "
+"waar deze komt te staan."
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:46
+msgid ""
+"You can order the premium version of this plugin for &euro; 69,- per year."
+msgstr ""
+"Je kunt de PRO variant van deze plugin bestellen voor &euro; 69,- per jaar."
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:46
+msgid "Order here."
+msgstr "Bestel deze hier."
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:49
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:63
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:77
+msgid "en"
+msgstr "nl"
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:50
+msgid "Add widget:"
+msgstr "Widget toevoegen:"
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:51
+msgid "To add the widget to your view please go to"
+msgstr "Om de widget toe te voegen ga je via weergave naar"
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:51
+msgid ""
+"Here you can find the Open RDW kenteken widget as an available widget. As "
+"soon as you add the widget to one of your sidebars it will show you more "
+"options."
+msgstr ""
+"Je vindt hier de OpenRDW kenteken widget als beschikbare widget terug. Zodra "
+"je deze plaatst zie je de volgende opties."
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:52
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-widget-display.php:8
+msgid "Widget title:"
+msgstr "Widget titel:"
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:52
+msgid ""
+"Here you can fill in the widget title which will be displayed at the top of "
+"the widget."
+msgstr "Vul hier de titel in die zichtbaar is als widget-titel."
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:53
+msgid "This class enables you to style the widget to your own needs."
+msgstr ""
+"Via deze class kun je een specifieke opmaak-class meegeven aan de widget. Op "
+"deze manier heb je vrijheid in de weergave van bijvoorbeeld het kenteken "
+"veld."
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:56
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:70
+msgid "Toggle all:"
+msgstr "Selecteer alles:"
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:56
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:70
+msgid ""
+"*Only possible in premium version*. As soon as you toggle the category "
+"checkbox, all child checkboxes will be checked as well. this enables you to "
+"easily select all the fields in one go."
+msgstr ""
+"*Alleen mogelijk in premium versie*. Zodra je op de selectieknop van een "
+"\"groep\" klikt, worden alle inhoudelijke en onderliggende velden van die "
+"groep geselecteerd. Op deze manier kun je eenvoudig alle velden selecteren "
+"om weer te geven."
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:57
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:59
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:71
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:73
+msgid "Re-sort:"
+msgstr "Herordenen:"
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:57
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:71
+msgid ""
+"*Only possible in premium version*. As soon as you click on a category and "
+"keep your mouse pressed you can drag and drop your category. This allows you "
+"to configure the positions of the categories the way you want."
+msgstr ""
+"*Alleen mogelijk in premium versie*. Zodra je op een titel van een groep "
+"klikt en de muis ingedrukt houdt, kun je de volgorde van groepen (en "
+"individuele velden) herordenen. Zo kun je deze omhoog en omlaag plaatsen, om "
+"de velden weer te geven zoals jij dat wilt."
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:58
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:72
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:85
+msgid "Open list:"
+msgstr "Open lijst:"
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:58
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:72
+msgid ""
+"As soon as you click on the title of a category, it will slide down and show "
+"you all it's child fields. After doing this you can easily select the fields "
+"you would like to show on your website."
+msgstr ""
+"Zodra je op de titel van een groep klikt, opent deze zich. Je ziet hierna "
+"welke onderliggende waarden mogelijk zijn binnen die specifieke data-groep. "
+"Hierna kun je er voor kiezen om bijvoorbeeld individuele opties aan te "
+"vinken."
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:59
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:73
+msgid ""
+"*Only possible in permium version*. Just like you can sort the categories to "
+"your own needs it is also possible to sort the single fields within it's own "
+"category. This way you can display the fields on your website the way you "
+"want."
+msgstr ""
+"*Alleen mogelijk in premium versie*. Evenals bij een groep kun je ook "
+"individuele velden (binnen een groep) herordenen. Zo kun je zowel op groep- "
+"als individueel niveau de volgorde bepalen voor de weergave van bepaalde "
+"velden."
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:64
+msgid "Add shortcode:"
+msgstr "Shortcode toevoegen:"
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:65
+#, php-format
+msgid ""
+"As soon as you add or edit a page or post you will find the Open RDW button "
+"(%s) in your WYSIWYG menu. As soon as you hover your mouse over this button "
+"you will see the option \"Insert shortcode\"."
+msgstr ""
+"Zodra je een pagina en/of bericht aanmaakt en/of bewerkt vind je in de "
+"WYSIWYG de Open RDW button (%s) terug. Zodra je hier met je muis op gaat "
+"staan zie je de optie \"Insert shortcode\" verschijnen."
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:66
+msgid ""
+"If you click on the button you will see a popup screen appear in which you "
+"can easily select which options you would like ot display on your page. As "
+"soon as you have checked the fields you would like to display you can click "
+"on the blue button \"Add shortcode\" to place the shortcode in your text "
+"area."
+msgstr ""
+"Als je op de button klikt zie je een popup verschijnen waar je op eenvoudige "
+"wijze aan kunt geven welke opties je wilt weer geven binnen de pagina. "
+"Wanneer de opties zijn aangevinkt klik je op de blauwe knop \"Shortcode "
+"toevoegen\" om de shortcode te plaatsen."
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:67
+msgid ""
+"After saving your page or post your shortcode will be active immediately."
+msgstr ""
+"Na het opslaan of bijwerken van je pagina is de shortcode per direct actief."
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:78
+msgid "Contact Form 7 integration:"
+msgstr "Contact Form 7 integratie:"
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:79
+msgid ""
+"You can fully integrate our Open Data RDW plugin into your Contact Form 7 "
+"forms. As soon as you add or edit a form you will see a button called "
+"\"Kenteken Open RDW\". When you klick on this button you will see a popup "
+"screen which allows you to add the license plate field."
+msgstr ""
+"Je kunt de Open Data RDW plugin volledig integreren in Contact Form 7. Zodra "
+"je een formulier aanmaakt en/of bewerkt zie je de button “Kenteken Open RDW"
+"\". Wanneer je op de button klikt zie je een popup verschijnen waarmee je, "
+"net als alle andere velden, het kenteken veld kunt toevoegen."
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:80
+msgid ""
+"Next to adding the license plate field you also have some other options, you "
+"can also choose to add the brand, model and for example the MOT expiry date. "
+"You can easily copy and paste these fields into your form."
+msgstr ""
+"Na het toevoegen van het kenteken veld heb je nog een aantal andere opties. "
+"Zo kun je er voor kiezen om het merk, model en bijvoorbeeld de vervaldatum "
+"van de APK weer te geven. Deze velden vind je dan ook terug in het popup-"
+"scherm."
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:81
+msgid "See below for an example form."
+msgstr "Zo kun je bijvoorbeeld tot de volgende code komen."
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:82
+#: public/partials/open-rdw-kenteken-voertuiginformatie-public-display.php:20
+msgid "Search license"
+msgstr "Zoek kenteken"
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:82
+#: includes/open-rdw-kenteken-voertuiginformatie-fields.php:31
+msgid "Brand"
+msgstr "Merk"
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:82
+#: includes/open-rdw-kenteken-voertuiginformatie-fields.php:119
+msgid "MOT expiry"
+msgstr "Vervaldatum APK"
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:83
+msgid "*Attention*:"
+msgstr "*Let op*:"
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:83
+msgid ""
+"It is important to add the fields in both your form and mail template from "
+"Contact Form 7. If you don't do this you will not receive the filled in form "
+"data in your mail."
+msgstr ""
+"Het is belangrijk om de velden toe te voegen in zowel het form als de mail "
+"tab van Contact Form 7. Als je deze namelijk niet toevoegt in de mail tab, "
+"worden de gegevens niet verzonden / gemaild. Je zou in dat geval de data dus "
+"niet ontvangen."
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:85
+msgid ""
+"As soon as you click on the title of a category, it will slide down and show "
+"you all it's child tags."
+msgstr ""
+"Zodra je op de titel van een groep klikt, opent deze zich. Je ziet hierna "
+"welke onderliggende waarden mogelijk zijn binnen die specifieke data-groep."
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:86
+msgid "Select tag:"
+msgstr "Tag selecteren:"
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:86
+msgid ""
+"When you click on one of the tag boxes it will automatically select the tag "
+"and enable you to easily copy and paste the tag in your form."
+msgstr ""
+"Zodra je op een titel klikt, selecteer je de shortcode tag automatisch. Deze "
+"kun je vervolgens gemakkelijk kopiëren en plakken in je Contact Form 7 "
+"formulier."
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:120
+msgid ""
+"This plugin simply shows the traveltime or the distance between your company "
+"and the address of the visitor of your website. This extensions uses the "
+"Google Distance Matrix API, therefor an API key is required. Not sure how to "
+"get one? Contact us."
+msgstr ""
+"Deze plugin laat simpelweg de reistijd of het aantal kilometers zien, tussen "
+"je bedrijf en het adres van de bezoeker. Deze uitbreiding maakt gebruik van "
+"de Google Distance Matrix API, waar een API key voor vereist is. Weet je "
+"niet zeker hoe je deze kan aanvragen? Neem dan contact met ons op."
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:167
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-getting-started.php:265
+msgid "Recent news on Tussendoor.nl"
+msgstr "Recent nieuws op Tussendoor.nl"
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:175
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-getting-started.php:273
+msgid "Like us on Facebook"
+msgstr "Like ons op Facebook"
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-display.php:176
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-admin-getting-started.php:274
+msgid "Like us on Facebook and stay tuned on all our updates."
+msgstr "Like ons op Facebook en blijf op de hoogte van alle updates."
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-tinymce-display.php:9
+msgid "Select which feelds you would like to display:"
+msgstr "Selecteer welke velden je wilt weergeven:"
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-tinymce-display.php:53
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-tinymce-display.php:54
+#: views/admin/about.php:27
+msgid "Add shortcode"
+msgstr "Shortcode toevoegen"
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-widget-display.php:12
+#: views/admin/widget-settings.php:7
+msgid "Widget class:"
+msgstr "Widget class:"
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-wpcf7-display.php:19
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-wpcf7-display.php:22
+#: views/admin/wpcf7-tag-generator.php:9 views/admin/wpcf7-tag-generator.php:12
+msgid "Field type"
+msgstr "Veld type"
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-wpcf7-display.php:23
+#: views/admin/wpcf7-tag-generator.php:13
+msgid "Required field"
+msgstr "Verplicht veld"
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-wpcf7-display.php:29
+#: views/admin/wpcf7-tag-generator.php:19
+msgid "Name"
+msgstr "Naam"
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-wpcf7-display.php:34
+#: views/admin/wpcf7-tag-generator.php:24
+msgid "Default value"
+msgstr "Standaard waarde"
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-wpcf7-display.php:36
+#: views/admin/wpcf7-tag-generator.php:26
+msgid "Use this text as the placeholder of the field"
+msgstr "Gebruik deze tekst als placeholder"
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-wpcf7-display.php:40
+#: views/admin/wpcf7-tag-generator.php:30
+msgid "Id attribute"
+msgstr "ID atribuut"
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-wpcf7-display.php:45
+#: views/admin/wpcf7-tag-generator.php:35
+msgid "Class attribute"
+msgstr "Class atribuut"
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-wpcf7-display.php:54
+msgid "Use the shortcode in combination with the following fields:"
+msgstr "Gebruik de shortcode in combinatie met de volgende velden:"
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-wpcf7-display.php:104
+#: views/admin/wpcf7-tag-generator.php:88
+msgid "Insert Tag"
+msgstr "Voeg tag toe"
+
+#: admin/partials/open-rdw-kenteken-voertuiginformatie-wpcf7-display.php:109
+#: views/admin/wpcf7-tag-generator.php:93
+#, php-format
+msgid ""
+"To use the value input through this field in a mail field, you need to "
+"insert the corresponding mail-tag (%s) into the field on the Mail tab."
+msgstr ""
+"Om de ingevoerde waarde van dit veld te kunnen gebruiken in een e-mail veld, "
+"moet de corresponderende e-mail-tag (%s) in het veld op de Mail tab "
+"ingevoegd worden."
+
+#: includes/class-open-rdw-kenteken-voertuiginformatie-widget.php:22
+msgid "Request data by means of license plate from the Open RDW."
+msgstr "Vraag kenteken gegevens op via de open data van het RDW."
+
+#: includes/class-open-rdw-kenteken-voertuiginformatie-widget.php:65
+msgid "Request licence plate information"
+msgstr "Zoek kenteken informatie"
+
+#: includes/open-rdw-kenteken-voertuiginformatie-fields.php:9
+msgid "Miscellaneous"
+msgstr "Overige"
+
+#: includes/open-rdw-kenteken-voertuiginformatie-fields.php:10
+msgid "History"
+msgstr "Historie"
+
+#: includes/open-rdw-kenteken-voertuiginformatie-fields.php:11
+msgid "Vehicle"
+msgstr "Voertuig"
+
+#: includes/open-rdw-kenteken-voertuiginformatie-fields.php:12
+msgid "Wheight and capacity"
+msgstr "Gewicht en capaciteit"
+
+#: includes/open-rdw-kenteken-voertuiginformatie-fields.php:13
+msgid "Maximum towable mass"
+msgstr "Maximum te trekken massa"
+
+#: includes/open-rdw-kenteken-voertuiginformatie-fields.php:14
+msgid "Engine"
+msgstr "Motor"
+
+#: includes/open-rdw-kenteken-voertuiginformatie-fields.php:15
+msgid "Design"
+msgstr "Ontwerp"
+
+#: includes/open-rdw-kenteken-voertuiginformatie-fields.php:16
+msgid "Moped"
+msgstr "Brom-/Snorfiets"
+
+#: includes/open-rdw-kenteken-voertuiginformatie-fields.php:17
+msgid "Axels"
+msgstr "Assen"
+
+#: includes/open-rdw-kenteken-voertuiginformatie-fields.php:18
+#: includes/open-rdw-kenteken-voertuiginformatie-fields.php:19
+msgid "Fuel information"
+msgstr "Brandstof informatie"
+
+#: includes/open-rdw-kenteken-voertuiginformatie-fields.php:20
+msgid "Body work"
+msgstr "Carrosserie"
+
+#: includes/open-rdw-kenteken-voertuiginformatie-fields.php:35
+msgid "Commercial name"
+msgstr "Model"
+
+#: includes/open-rdw-kenteken-voertuiginformatie-fields.php:39
+msgid "Vehicle type"
+msgstr "Voertuigtype"
+
+#: includes/open-rdw-kenteken-voertuiginformatie-fields.php:43
+msgid "First colour"
+msgstr "Eerste kleur"
+
+#: includes/open-rdw-kenteken-voertuiginformatie-fields.php:47
+msgid "Secondary colour"
+msgstr "Tweede kleur"
+
+#: includes/open-rdw-kenteken-voertuiginformatie-fields.php:51
+msgid "Number of seats"
+msgstr "Aantal zitplaatsen"
+
+#: includes/open-rdw-kenteken-voertuiginformatie-fields.php:55
+msgid "Number of standing places"
+msgstr "Aantal staanplaatsen"
+
+#: includes/open-rdw-kenteken-voertuiginformatie-fields.php:59
+msgid "Fuel description"
+msgstr "Brandstof omschrijving"
+
+#: includes/open-rdw-kenteken-voertuiginformatie-fields.php:63
+msgid "Number of cilinders"
+msgstr "Aantal cilinders"
+
+#: includes/open-rdw-kenteken-voertuiginformatie-fields.php:67
+msgid "Engine capacity"
+msgstr "Cilinderinhoud"
+
+#: includes/open-rdw-kenteken-voertuiginformatie-fields.php:71
+msgid "Empty vehicle mass"
+msgstr "Massa ledig voertuig"
+
+#: includes/open-rdw-kenteken-voertuiginformatie-fields.php:75
+msgid "Capacity"
+msgstr "Laadvermogen"
+
+#: includes/open-rdw-kenteken-voertuiginformatie-fields.php:79
+msgid "Maximum permissible mass of vehicle"
+msgstr "Toegestane maximum massa voertuig"
+
+#: includes/open-rdw-kenteken-voertuiginformatie-fields.php:83
+msgid "Mass roadworthy"
+msgstr "Massa rijklaar"
+
+#: includes/open-rdw-kenteken-voertuiginformatie-fields.php:87
+msgid "Maximum towable mass non-braked"
+msgstr "Maximum massa trekken ongeremd"
+
+#: includes/open-rdw-kenteken-voertuiginformatie-fields.php:91
+msgid "Maximum towable mass braked"
+msgstr "Maximum massa trekken geremd"
+
+#: includes/open-rdw-kenteken-voertuiginformatie-fields.php:95
+msgid "Trailer braked"
+msgstr "Aanhangwagen geremd"
+
+#: includes/open-rdw-kenteken-voertuiginformatie-fields.php:99
+msgid "Trailer autonomous braked"
+msgstr "Aanhangwagen autonoom geremd"
+
+#: includes/open-rdw-kenteken-voertuiginformatie-fields.php:103
+msgid "Trailer center axis braked"
+msgstr "Aanhangwagen middenas geremd"
+
+#: includes/open-rdw-kenteken-voertuiginformatie-fields.php:107
+msgid "Date of first registration"
+msgstr "Datum eerste toelating"
+
+#: includes/open-rdw-kenteken-voertuiginformatie-fields.php:111
+msgid "Date of first release Netherlands"
+msgstr "Datum eerste afgifte Nederland"
+
+#: includes/open-rdw-kenteken-voertuiginformatie-fields.php:115
+msgid "Date ascription"
+msgstr "Datum tenaamstelling"
+
+#: public/partials/open-rdw-kenteken-voertuiginformatie-public-display.php:25
+#, php-format
+msgid "Unfortunately no vehicle information was found for license plate %s."
+msgstr "Helaas is er geen voertuig informatie gevonden voor kenteken %s."
+
+#: public/partials/open-rdw-kenteken-voertuiginformatie-public-display.php:27
+msgid ""
+"No widget settings were found, please add them or alert the website "
+"administrator about this."
+msgstr ""
+"Er zijn geen widget instellingen gevonden! Voeg deze toe of neem contact op "
+"met de website administrator."
+
+#: views/admin/about.php:3
+msgid "Information"
+msgstr "Informatie"
+
+#: views/admin/about.php:7
+msgid "Open data RDW vehicle information"
+msgstr "Open Data RDW Auto informatie"
+
+#: views/admin/about.php:15
+msgid "Add widget"
+msgstr "Voeg widget toe"
+
+#: views/admin/widget-settings.php:3
+msgid "Title:"
+msgstr "Titel:"
+
+#: views/frontend/shortcode.php:3 views/frontend/widget.php:7
+msgid "Kenteken opzoeken"
+msgstr "Kenteken opzoeken"
+
+#: views/frontend/shortcode.php:6 views/frontend/widget.php:10
+msgid "Voertuiggegevens"
+msgstr "Voertuiggegevens"
+
+#. Plugin Name of the plugin/theme
+msgid "Open RDW kenteken voertuiginformatie"
+msgstr "OpenRDW kenteken voertuiginformatie"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.tussendoor.nl"
+msgstr "http://www.tussendoor.nl"
+
+#. Description of the plugin/theme
+msgid ""
+"Open RDW Kenteken voertuiginformatie for requesting and sending of vehicle "
+"information in WordPress."
+msgstr ""
+"Open RDW Kenteken voertuiginformatie voor het ophalen van voertuig "
+"informatie in WordPress."
+
+#. Author of the plugin/theme
+msgid "Tussendoor internet & marketing"
+msgstr "Tussendoor internet & marketing"
+
+#~ msgid ""
+#~ "You can order the premium version of this plugin for € 69,- per year."
+#~ msgstr ""
+#~ "Je kunt de premium versie van de plugin al aanschaffen voor € 69,- per "
+#~ "jaar."
+
+#~ msgid ""
+#~ "Open RDW Kenteken voertuiginformatie for requesting and sending of "
+#~ "vehicle information in WordPress. Plugin needs connection to open RDW."
+#~ msgstr ""
+#~ "OpenRDW Kenteken voertuig informatie voor het ophalen en verwerken van "
+#~ "voertuig informatie binnen WordPress."
+
+#~ msgid "License plate"
+#~ msgstr "Kenteken"
+
+#~ msgid ""
+#~ "As soon as you toggle the category checkbox, all child checkboxes will be "
+#~ "checked as well. this enables you to easily select all the fields in one "
+#~ "go."
+#~ msgstr ""
+#~ "Zodra je op het selectieboxje van een \"groep\" klikt, worden alle "
+#~ "inhoudelijke en onderliggende velden van die groep geselecteerd. Op deze "
+#~ "manier kun je envoudig alle velden selecteren om weer te geven."
+
+#~ msgid "Gross BPM"
+#~ msgstr "Bruto BPM"
+
+#~ msgid "Interior"
+#~ msgstr "Inrichting"
+
+#~ msgid "Retrofit particulate filter"
+#~ msgstr "Retrofit roetfilter"
+
+#~ msgid "Energy label"
+#~ msgstr "Zuinigheidslabel"
+
+#~ msgid "Waiting for inspection"
+#~ msgstr "Wacht op keuren"
+
+#~ msgid "Catalog price"
+#~ msgstr "Catalogusprijs"
+
+#~ msgid "WAM insured"
+#~ msgstr "WAM verzekerd"
+
+#~ msgid "Maximum constructed speed"
+#~ msgstr "Maximale constructiesnelheid"
+
+#~ msgid "Number of doors"
+#~ msgstr "Aantal deuren"
+
+#~ msgid "Number of wheels"
+#~ msgstr "Aantal wielen"
+
+#~ msgid "Distance heart clutch to back of vehicle"
+#~ msgstr "Afstand hart koppeling tot achterzijde voertuig"
+
+#~ msgid "Distance front of vehicle to heart clutch"
+#~ msgstr "Afstand voorzijde voertuig tot hart koppeling"
+
+#~ msgid "Variating maximum speed"
+#~ msgstr "Afwijkende maximum snelheid"
+
+#~ msgid "Length"
+#~ msgstr "Lengte"
+
+#~ msgid "Width"
+#~ msgstr "Breedte"
+
+#~ msgid "European vehicle category"
+#~ msgstr "Europese voertuigcategorie"
+
+#~ msgid "European vehicle category extra"
+#~ msgstr "Europese voertuigcategorie toevoeging"
+
+#~ msgid "European version category extra"
+#~ msgstr "Europese uitvoeringscategorie toevoeging"
+
+#~ msgid "Place chassisnumber"
+#~ msgstr "Plaats chassisnummer"
+
+#~ msgid "Technical max. mass vvehicle"
+#~ msgstr "Technische max. massa voertuig"
+
+#~ msgid "Type"
+#~ msgstr "Type"
+
+#~ msgid "Type gasinstallation"
+#~ msgstr "Type gasinstallatie"
+
+#~ msgid "Type approval number"
+#~ msgstr "Typegoedkeuringsnummer"
+
+#~ msgid "Variant"
+#~ msgstr "Variant"
+
+#~ msgid "Version"
+#~ msgstr "Uitvoering"
+
+#~ msgid "Capacity roadworthy"
+#~ msgstr "Vermogen massarijklaar"
+
+#~ msgid "Wheelbase"
+#~ msgstr "Wielbasis"
+
+#~ msgid "Export indicator"
+#~ msgstr "Export indicator"
+
+#~ msgid "Open recall indicator"
+#~ msgstr "Openstaande terugroepactie indicator"
+
+#~ msgid "Expiry date tachograph"
+#~ msgstr "Vervaldatum tachograaf"
+
+#~ msgid "Axel number"
+#~ msgstr "As nummer"
+
+#~ msgid "Number of axels"
+#~ msgstr "Aantal assen"
+
+#~ msgid "Driven axel"
+#~ msgstr "Aangedreven as"
+
+#~ msgid "Lifting axle"
+#~ msgstr "Hefas"
+
+#~ msgid "Place code axel"
+#~ msgstr "Plaats code as"
+
+#~ msgid "Track gauge"
+#~ msgstr "Spoorbreedte"
+
+#~ msgid "Roadhandling code"
+#~ msgstr "Weggedrag code"
+
+#~ msgid "Legal max axel wheight"
+#~ msgstr "Wettelijk toegestane max. aslast"
+
+#~ msgid "Technical max axel wheight"
+#~ msgstr "Technisch toegestane max. aslast"
+
+#~ msgid "Fuel consumption outside city"
+#~ msgstr "Brandstofverbruik buiten de stad"
+
+#~ msgid "Fuel consumption combined"
+#~ msgstr "Brandstofverbruik gecombineerd"
+
+#~ msgid "Fuel consumption in city"
+#~ msgstr "Brandstofverbruik in de stad"
+
+#~ msgid "CO2 emission combined"
+#~ msgstr "CO2-uitstoot gecombineerd"
+
+#~ msgid "CO2 emission weighed"
+#~ msgstr "CO2-uitstoot gewogen"
+
+#~ msgid "Noise level while driving"
+#~ msgstr "Geluidsniveau rijdend"
+
+#~ msgid "Noise level while idle"
+#~ msgstr "Geluidsniveau stationair"
+
+#~ msgid "emission code description"
+#~ msgstr "Emissiecode omschrijving"
+
+#~ msgid "Environmentclass EG approval"
+#~ msgstr "Milieuklasse EG goedkeuring"
+
+#~ msgid "Environmentclass EG approval (heavy)"
+#~ msgstr "Milieuklasse EG goedkeuring (zwaar)"
+
+#~ msgid "emission particles"
+#~ msgstr "Uitstoot deeltjes"
+
+#~ msgid "emission particles (heavy)"
+#~ msgstr "Uitstoot deeltjes (zwaar)"
+
+#~ msgid "Maximum net power"
+#~ msgstr "Nettomaximumvermogen"
+
+#~ msgid "Nominal continues maximum capacity"
+#~ msgstr "Nominaal continu maximumvermogen"
+
+#~ msgid "Soot emission"
+#~ msgstr "Roetuiststoot"
+
+#~ msgid "Rev noise level"
+#~ msgstr "Toerental geluidsniveau"
+
+#~ msgid "Body type"
+#~ msgstr "Carrosserietype"
+
+#~ msgid "Body type EU description"
+#~ msgstr "Type carrosserie EU omschrijving"
+
+#~ msgid "Body code"
+#~ msgstr "Carrosseriecode"
+
+#~ msgid "Body vehicle EU description"
+#~ msgstr "Carrosserie voertuig EU omschrijving"
+
+#~ msgid "Vehicle class"
+#~ msgstr "Voertuigklasse"
+
+#~ msgid "Vehicle class description"
+#~ msgstr "Voertuigklasse omschrijving"
+
+#~ msgid "Wheight and capactiy"
+#~ msgstr "Gewicht en capaciteit"

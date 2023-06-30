@@ -1,0 +1,518 @@
+2023-06-23T07:55:15+00:00 Uncaught TypeError: basename(): Argument #1 ($path) must be of type string, array given in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code:23
+Stack trace:
+#0 D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code(23): basename(Array)
+#1 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(310): save_cf7_form_data(Object(WPCF7_ContactForm))
+#2 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#4 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(767): do_action_ref_array('wpcf7_before_se...', Array)
+#5 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(103): WPCF7_Submission->before_send_mail()
+#6 [internal function]: WPCF7_Submission->{closure}()
+#7 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\l10n.php(147): call_user_func(Object(Closure))
+#8 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(131): wpcf7_switch_locale('nl_NL', Object(Closure))
+#9 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(35): WPCF7_Submission->proceed()
+#10 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\contact-form.php(1048): WPCF7_Submission::get_instance(Object(WPCF7_ContactForm), Array)
+#11 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\rest-api.php(357): WPCF7_ContactForm->submit()
+#12 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1181): WPCF7_REST_Controller->create_feedback(Object(WP_REST_Request))
+#13 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/contact-form-7...', Array, NULL)
+#14 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#15 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api.php(410): WP_REST_Server->serve_request('/contact-form-7...')
+#16 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#17 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#18 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#19 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(399): do_action_ref_array('parse_request', Array)
+#20 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(780): WP->parse_request('')
+#21 D:\xampp\htdocs\autobedrijf\wp-includes\functions.php(1334): WP->main('')
+#22 D:\xampp\htdocs\autobedrijf\wp-blog-header.php(16): wp()
+#23 D:\xampp\htdocs\autobedrijf\index.php(17): require('D:\\xampp\\htdocs...')
+#24 {main}
+  thrown
+2023-06-23T07:55:15+00:00 Snippet "Contactform data opslaan in database tabel ''Autos''" (#381) was automatically deactivated due to a fatal error.
+2023-06-23T08:52:26+00:00 Unclosed '{' on line 3
+2023-06-23T08:52:26+00:00 Snippet "Contactform data opslaan in database tabel ''Autos''" (#381) was automatically deactivated due to a fatal error.
+2023-06-23T08:54:07+00:00 Uncaught TypeError: file_get_contents(): Argument #1 ($filename) must be of type string, array given in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code:18
+Stack trace:
+#0 D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code(18): file_get_contents(Array)
+#1 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(310): save_cf7_form_data(Object(WPCF7_ContactForm))
+#2 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#4 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(767): do_action_ref_array('wpcf7_before_se...', Array)
+#5 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(103): WPCF7_Submission->before_send_mail()
+#6 [internal function]: WPCF7_Submission->{closure}()
+#7 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\l10n.php(147): call_user_func(Object(Closure))
+#8 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(131): wpcf7_switch_locale('nl_NL', Object(Closure))
+#9 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(35): WPCF7_Submission->proceed()
+#10 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\contact-form.php(1048): WPCF7_Submission::get_instance(Object(WPCF7_ContactForm), Array)
+#11 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\rest-api.php(357): WPCF7_ContactForm->submit()
+#12 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1181): WPCF7_REST_Controller->create_feedback(Object(WP_REST_Request))
+#13 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/contact-form-7...', Array, NULL)
+#14 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#15 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api.php(410): WP_REST_Server->serve_request('/contact-form-7...')
+#16 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#17 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#18 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#19 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(399): do_action_ref_array('parse_request', Array)
+#20 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(780): WP->parse_request('')
+#21 D:\xampp\htdocs\autobedrijf\wp-includes\functions.php(1334): WP->main('')
+#22 D:\xampp\htdocs\autobedrijf\wp-blog-header.php(16): wp()
+#23 D:\xampp\htdocs\autobedrijf\index.php(17): require('D:\\xampp\\htdocs...')
+#24 {main}
+  thrown
+2023-06-23T08:54:07+00:00 Snippet "Contactform data opslaan in database tabel ''Autos''" (#381) was automatically deactivated due to a fatal error.
+2023-06-23T08:56:02+00:00 Uncaught ValueError: Path cannot be empty in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code:19
+Stack trace:
+#0 D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code(19): file_get_contents('')
+#1 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(310): save_cf7_form_data(Object(WPCF7_ContactForm))
+#2 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#4 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(767): do_action_ref_array('wpcf7_before_se...', Array)
+#5 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(103): WPCF7_Submission->before_send_mail()
+#6 [internal function]: WPCF7_Submission->{closure}()
+#7 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\l10n.php(147): call_user_func(Object(Closure))
+#8 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(131): wpcf7_switch_locale('nl_NL', Object(Closure))
+#9 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(35): WPCF7_Submission->proceed()
+#10 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\contact-form.php(1048): WPCF7_Submission::get_instance(Object(WPCF7_ContactForm), Array)
+#11 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\rest-api.php(357): WPCF7_ContactForm->submit()
+#12 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1181): WPCF7_REST_Controller->create_feedback(Object(WP_REST_Request))
+#13 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/contact-form-7...', Array, NULL)
+#14 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#15 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api.php(410): WP_REST_Server->serve_request('/contact-form-7...')
+#16 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#17 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#18 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#19 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(399): do_action_ref_array('parse_request', Array)
+#20 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(780): WP->parse_request('')
+#21 D:\xampp\htdocs\autobedrijf\wp-includes\functions.php(1334): WP->main('')
+#22 D:\xampp\htdocs\autobedrijf\wp-blog-header.php(16): wp()
+#23 D:\xampp\htdocs\autobedrijf\index.php(17): require('D:\\xampp\\htdocs...')
+#24 {main}
+  thrown
+2023-06-23T08:56:02+00:00 Snippet "Contactform data opslaan in database tabel ''Autos''" (#381) was automatically deactivated due to a fatal error.
+2023-06-23T08:57:47+00:00 Uncaught TypeError: basename(): Argument #1 ($path) must be of type string, array given in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code:18
+Stack trace:
+#0 D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code(18): basename(Array)
+#1 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(310): save_cf7_form_data(Object(WPCF7_ContactForm))
+#2 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#4 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(767): do_action_ref_array('wpcf7_before_se...', Array)
+#5 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(103): WPCF7_Submission->before_send_mail()
+#6 [internal function]: WPCF7_Submission->{closure}()
+#7 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\l10n.php(147): call_user_func(Object(Closure))
+#8 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(131): wpcf7_switch_locale('nl_NL', Object(Closure))
+#9 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(35): WPCF7_Submission->proceed()
+#10 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\contact-form.php(1048): WPCF7_Submission::get_instance(Object(WPCF7_ContactForm), Array)
+#11 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\rest-api.php(357): WPCF7_ContactForm->submit()
+#12 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1181): WPCF7_REST_Controller->create_feedback(Object(WP_REST_Request))
+#13 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/contact-form-7...', Array, NULL)
+#14 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#15 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api.php(410): WP_REST_Server->serve_request('/contact-form-7...')
+#16 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#17 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#18 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#19 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(399): do_action_ref_array('parse_request', Array)
+#20 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(780): WP->parse_request('')
+#21 D:\xampp\htdocs\autobedrijf\wp-includes\functions.php(1334): WP->main('')
+#22 D:\xampp\htdocs\autobedrijf\wp-blog-header.php(16): wp()
+#23 D:\xampp\htdocs\autobedrijf\index.php(17): require('D:\\xampp\\htdocs...')
+#24 {main}
+  thrown
+2023-06-23T08:57:47+00:00 Snippet "Contactform data opslaan in database tabel ''Autos''" (#381) was automatically deactivated due to a fatal error.
+2023-06-23T09:22:30+00:00 Uncaught Error: Call to undefined function wp_generate_attachment_metadata() in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code:31
+Stack trace:
+#0 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(310): save_cf7_form_data(Object(WPCF7_ContactForm))
+#1 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(767): do_action_ref_array('wpcf7_before_se...', Array)
+#4 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(103): WPCF7_Submission->before_send_mail()
+#5 [internal function]: WPCF7_Submission->{closure}()
+#6 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\l10n.php(147): call_user_func(Object(Closure))
+#7 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(131): wpcf7_switch_locale('nl_NL', Object(Closure))
+#8 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(35): WPCF7_Submission->proceed()
+#9 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\contact-form.php(1048): WPCF7_Submission::get_instance(Object(WPCF7_ContactForm), Array)
+#10 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\rest-api.php(357): WPCF7_ContactForm->submit()
+#11 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1181): WPCF7_REST_Controller->create_feedback(Object(WP_REST_Request))
+#12 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/contact-form-7...', Array, NULL)
+#13 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#14 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api.php(410): WP_REST_Server->serve_request('/contact-form-7...')
+#15 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#16 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#17 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#18 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(399): do_action_ref_array('parse_request', Array)
+#19 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(780): WP->parse_request('')
+#20 D:\xampp\htdocs\autobedrijf\wp-includes\functions.php(1334): WP->main('')
+#21 D:\xampp\htdocs\autobedrijf\wp-blog-header.php(16): wp()
+#22 D:\xampp\htdocs\autobedrijf\index.php(17): require('D:\\xampp\\htdocs...')
+#23 {main}
+  thrown
+2023-06-23T09:22:30+00:00 Snippet "Contactform data opslaan in database tabel ''Autos''" (#381) was automatically deactivated due to a fatal error.
+2023-06-23T09:24:01+00:00 Uncaught ValueError: Path cannot be empty in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code:20
+Stack trace:
+#0 D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code(20): file_get_contents('')
+#1 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(310): save_cf7_form_data(Object(WPCF7_ContactForm))
+#2 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#4 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(767): do_action_ref_array('wpcf7_before_se...', Array)
+#5 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(103): WPCF7_Submission->before_send_mail()
+#6 [internal function]: WPCF7_Submission->{closure}()
+#7 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\l10n.php(147): call_user_func(Object(Closure))
+#8 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(131): wpcf7_switch_locale('nl_NL', Object(Closure))
+#9 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(35): WPCF7_Submission->proceed()
+#10 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\contact-form.php(1048): WPCF7_Submission::get_instance(Object(WPCF7_ContactForm), Array)
+#11 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\rest-api.php(357): WPCF7_ContactForm->submit()
+#12 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1181): WPCF7_REST_Controller->create_feedback(Object(WP_REST_Request))
+#13 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/contact-form-7...', Array, NULL)
+#14 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#15 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api.php(410): WP_REST_Server->serve_request('/contact-form-7...')
+#16 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#17 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#18 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#19 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(399): do_action_ref_array('parse_request', Array)
+#20 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(780): WP->parse_request('')
+#21 D:\xampp\htdocs\autobedrijf\wp-includes\functions.php(1334): WP->main('')
+#22 D:\xampp\htdocs\autobedrijf\wp-blog-header.php(16): wp()
+#23 D:\xampp\htdocs\autobedrijf\index.php(17): require('D:\\xampp\\htdocs...')
+#24 {main}
+  thrown
+2023-06-23T09:24:01+00:00 Snippet "Contactform data opslaan in database tabel ''Autos''" (#381) was automatically deactivated due to a fatal error.
+2023-06-23T09:26:05+00:00 Uncaught ValueError: Path cannot be empty in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code:20
+Stack trace:
+#0 D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code(20): file_get_contents('')
+#1 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(310): save_cf7_form_data(Object(WPCF7_ContactForm))
+#2 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#4 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(767): do_action_ref_array('wpcf7_before_se...', Array)
+#5 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(103): WPCF7_Submission->before_send_mail()
+#6 [internal function]: WPCF7_Submission->{closure}()
+#7 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\l10n.php(147): call_user_func(Object(Closure))
+#8 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(131): wpcf7_switch_locale('nl_NL', Object(Closure))
+#9 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(35): WPCF7_Submission->proceed()
+#10 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\contact-form.php(1048): WPCF7_Submission::get_instance(Object(WPCF7_ContactForm), Array)
+#11 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\rest-api.php(357): WPCF7_ContactForm->submit()
+#12 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1181): WPCF7_REST_Controller->create_feedback(Object(WP_REST_Request))
+#13 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/contact-form-7...', Array, NULL)
+#14 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#15 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api.php(410): WP_REST_Server->serve_request('/contact-form-7...')
+#16 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#17 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#18 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#19 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(399): do_action_ref_array('parse_request', Array)
+#20 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(780): WP->parse_request('')
+#21 D:\xampp\htdocs\autobedrijf\wp-includes\functions.php(1334): WP->main('')
+#22 D:\xampp\htdocs\autobedrijf\wp-blog-header.php(16): wp()
+#23 D:\xampp\htdocs\autobedrijf\index.php(17): require('D:\\xampp\\htdocs...')
+#24 {main}
+  thrown
+2023-06-23T09:26:05+00:00 Snippet "Contactform data opslaan in database tabel ''Autos''" (#381) was automatically deactivated due to a fatal error.
+2023-06-23T09:31:54+00:00 Uncaught Error: Cannot use object of type WP_Error as array in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code:17
+Stack trace:
+#0 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(310): save_cf7_form_data(Object(WPCF7_ContactForm))
+#1 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(767): do_action_ref_array('wpcf7_before_se...', Array)
+#4 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(103): WPCF7_Submission->before_send_mail()
+#5 [internal function]: WPCF7_Submission->{closure}()
+#6 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\l10n.php(147): call_user_func(Object(Closure))
+#7 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(131): wpcf7_switch_locale('nl_NL', Object(Closure))
+#8 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(35): WPCF7_Submission->proceed()
+#9 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\contact-form.php(1048): WPCF7_Submission::get_instance(Object(WPCF7_ContactForm), Array)
+#10 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\rest-api.php(357): WPCF7_ContactForm->submit()
+#11 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1181): WPCF7_REST_Controller->create_feedback(Object(WP_REST_Request))
+#12 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/contact-form-7...', Array, NULL)
+#13 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#14 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api.php(410): WP_REST_Server->serve_request('/contact-form-7...')
+#15 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#16 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#17 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#18 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(399): do_action_ref_array('parse_request', Array)
+#19 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(780): WP->parse_request('')
+#20 D:\xampp\htdocs\autobedrijf\wp-includes\functions.php(1334): WP->main('')
+#21 D:\xampp\htdocs\autobedrijf\wp-blog-header.php(16): wp()
+#22 D:\xampp\htdocs\autobedrijf\index.php(17): require('D:\\xampp\\htdocs...')
+#23 {main}
+  thrown
+2023-06-23T09:31:54+00:00 Snippet "Contactform data opslaan in database tabel ''Autos''" (#381) was automatically deactivated due to a fatal error.
+2023-06-23T09:32:51+00:00 Uncaught ValueError: Path cannot be empty in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code:17
+Stack trace:
+#0 D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code(17): file_get_contents('')
+#1 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(310): save_cf7_form_data(Object(WPCF7_ContactForm))
+#2 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#4 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(767): do_action_ref_array('wpcf7_before_se...', Array)
+#5 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(103): WPCF7_Submission->before_send_mail()
+#6 [internal function]: WPCF7_Submission->{closure}()
+#7 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\l10n.php(147): call_user_func(Object(Closure))
+#8 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(131): wpcf7_switch_locale('nl_NL', Object(Closure))
+#9 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(35): WPCF7_Submission->proceed()
+#10 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\contact-form.php(1048): WPCF7_Submission::get_instance(Object(WPCF7_ContactForm), Array)
+#11 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\rest-api.php(357): WPCF7_ContactForm->submit()
+#12 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1181): WPCF7_REST_Controller->create_feedback(Object(WP_REST_Request))
+#13 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/contact-form-7...', Array, NULL)
+#14 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#15 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api.php(410): WP_REST_Server->serve_request('/contact-form-7...')
+#16 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#17 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#18 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#19 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(399): do_action_ref_array('parse_request', Array)
+#20 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(780): WP->parse_request('')
+#21 D:\xampp\htdocs\autobedrijf\wp-includes\functions.php(1334): WP->main('')
+#22 D:\xampp\htdocs\autobedrijf\wp-blog-header.php(16): wp()
+#23 D:\xampp\htdocs\autobedrijf\index.php(17): require('D:\\xampp\\htdocs...')
+#24 {main}
+  thrown
+2023-06-23T09:32:51+00:00 Snippet "Contactform data opslaan in database tabel ''Autos''" (#381) was automatically deactivated due to a fatal error.
+2023-06-23T09:52:34+00:00 Uncaught Error: Call to undefined method WPCF7_ContactForm::uploaded_files() in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code:4
+Stack trace:
+#0 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(310): move_cf7_uploaded_file_to_media_library(Object(WPCF7_ContactForm))
+#1 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(767): do_action_ref_array('wpcf7_before_se...', Array)
+#4 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(103): WPCF7_Submission->before_send_mail()
+#5 [internal function]: WPCF7_Submission->{closure}()
+#6 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\l10n.php(147): call_user_func(Object(Closure))
+#7 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(131): wpcf7_switch_locale('nl_NL', Object(Closure))
+#8 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(35): WPCF7_Submission->proceed()
+#9 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\contact-form.php(1048): WPCF7_Submission::get_instance(Object(WPCF7_ContactForm), Array)
+#10 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\rest-api.php(357): WPCF7_ContactForm->submit()
+#11 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1181): WPCF7_REST_Controller->create_feedback(Object(WP_REST_Request))
+#12 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/contact-form-7...', Array, NULL)
+#13 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#14 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api.php(410): WP_REST_Server->serve_request('/contact-form-7...')
+#15 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#16 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#17 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#18 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(399): do_action_ref_array('parse_request', Array)
+#19 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(780): WP->parse_request('')
+#20 D:\xampp\htdocs\autobedrijf\wp-includes\functions.php(1334): WP->main('')
+#21 D:\xampp\htdocs\autobedrijf\wp-blog-header.php(16): wp()
+#22 D:\xampp\htdocs\autobedrijf\index.php(17): require('D:\\xampp\\htdocs...')
+#23 {main}
+  thrown
+2023-06-23T09:52:34+00:00 Snippet "Contactform data opslaan in database tabel ''Autos''" (#381) was automatically deactivated due to a fatal error.
+2023-06-23T09:53:32+00:00 Uncaught Error: Call to undefined method WPCF7_ContactForm::uploaded_files() in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code:4
+Stack trace:
+#0 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(310): move_cf7_uploaded_file_to_media_library(Object(WPCF7_ContactForm))
+#1 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(767): do_action_ref_array('wpcf7_before_se...', Array)
+#4 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(103): WPCF7_Submission->before_send_mail()
+#5 [internal function]: WPCF7_Submission->{closure}()
+#6 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\l10n.php(147): call_user_func(Object(Closure))
+#7 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(131): wpcf7_switch_locale('nl_NL', Object(Closure))
+#8 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(35): WPCF7_Submission->proceed()
+#9 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\contact-form.php(1048): WPCF7_Submission::get_instance(Object(WPCF7_ContactForm), Array)
+#10 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\rest-api.php(357): WPCF7_ContactForm->submit()
+#11 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1181): WPCF7_REST_Controller->create_feedback(Object(WP_REST_Request))
+#12 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/contact-form-7...', Array, NULL)
+#13 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#14 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api.php(410): WP_REST_Server->serve_request('/contact-form-7...')
+#15 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#16 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#17 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#18 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(399): do_action_ref_array('parse_request', Array)
+#19 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(780): WP->parse_request('')
+#20 D:\xampp\htdocs\autobedrijf\wp-includes\functions.php(1334): WP->main('')
+#21 D:\xampp\htdocs\autobedrijf\wp-blog-header.php(16): wp()
+#22 D:\xampp\htdocs\autobedrijf\index.php(17): require('D:\\xampp\\htdocs...')
+#23 {main}
+  thrown
+2023-06-23T09:53:32+00:00 Snippet "Contactform data opslaan in database tabel ''Autos''" (#381) was automatically deactivated due to a fatal error.
+2023-06-23T09:56:22+00:00 Cannot redeclare move_cf7_uploaded_file_to_media_library() (previously declared in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code:3)
+2023-06-23T09:56:50+00:00 Uncaught Error: Call to undefined method WPCF7_ContactForm::uploaded_files() in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code:4
+Stack trace:
+#0 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(310): move_cf7_uploaded_file_to_media_library(Object(WPCF7_ContactForm))
+#1 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(767): do_action_ref_array('wpcf7_before_se...', Array)
+#4 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(103): WPCF7_Submission->before_send_mail()
+#5 [internal function]: WPCF7_Submission->{closure}()
+#6 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\l10n.php(147): call_user_func(Object(Closure))
+#7 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(131): wpcf7_switch_locale('nl_NL', Object(Closure))
+#8 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(35): WPCF7_Submission->proceed()
+#9 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\contact-form.php(1048): WPCF7_Submission::get_instance(Object(WPCF7_ContactForm), Array)
+#10 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\rest-api.php(357): WPCF7_ContactForm->submit()
+#11 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1181): WPCF7_REST_Controller->create_feedback(Object(WP_REST_Request))
+#12 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/contact-form-7...', Array, NULL)
+#13 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#14 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api.php(410): WP_REST_Server->serve_request('/contact-form-7...')
+#15 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#16 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#17 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#18 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(399): do_action_ref_array('parse_request', Array)
+#19 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(780): WP->parse_request('')
+#20 D:\xampp\htdocs\autobedrijf\wp-includes\functions.php(1334): WP->main('')
+#21 D:\xampp\htdocs\autobedrijf\wp-blog-header.php(16): wp()
+#22 D:\xampp\htdocs\autobedrijf\index.php(17): require('D:\\xampp\\htdocs...')
+#23 {main}
+  thrown
+2023-06-23T09:56:50+00:00 Snippet "Verplaats afbeelding naar media library" (#462) was automatically deactivated due to a fatal error.
+2023-06-23T09:57:26+00:00 Uncaught Error: Call to undefined method WPCF7_ContactForm::uploaded_files() in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code:4
+Stack trace:
+#0 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(310): move_cf7_uploaded_file_to_media_library(Object(WPCF7_ContactForm))
+#1 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(767): do_action_ref_array('wpcf7_before_se...', Array)
+#4 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(103): WPCF7_Submission->before_send_mail()
+#5 [internal function]: WPCF7_Submission->{closure}()
+#6 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\l10n.php(147): call_user_func(Object(Closure))
+#7 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(131): wpcf7_switch_locale('nl_NL', Object(Closure))
+#8 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(35): WPCF7_Submission->proceed()
+#9 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\contact-form.php(1048): WPCF7_Submission::get_instance(Object(WPCF7_ContactForm), Array)
+#10 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\rest-api.php(357): WPCF7_ContactForm->submit()
+#11 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1181): WPCF7_REST_Controller->create_feedback(Object(WP_REST_Request))
+#12 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/contact-form-7...', Array, NULL)
+#13 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#14 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api.php(410): WP_REST_Server->serve_request('/contact-form-7...')
+#15 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#16 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#17 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#18 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(399): do_action_ref_array('parse_request', Array)
+#19 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(780): WP->parse_request('')
+#20 D:\xampp\htdocs\autobedrijf\wp-includes\functions.php(1334): WP->main('')
+#21 D:\xampp\htdocs\autobedrijf\wp-blog-header.php(16): wp()
+#22 D:\xampp\htdocs\autobedrijf\index.php(17): require('D:\\xampp\\htdocs...')
+#23 {main}
+  thrown
+2023-06-23T09:57:26+00:00 Snippet "Verplaats afbeelding naar media library" (#462) was automatically deactivated due to a fatal error.
+2023-06-23T09:58:46+00:00 Uncaught Error: Call to undefined method WPCF7_Submission::get_uploaded_files() in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code:7
+Stack trace:
+#0 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(310): move_cf7_uploaded_file_to_media_library(Object(WPCF7_ContactForm))
+#1 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(767): do_action_ref_array('wpcf7_before_se...', Array)
+#4 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(103): WPCF7_Submission->before_send_mail()
+#5 [internal function]: WPCF7_Submission->{closure}()
+#6 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\l10n.php(147): call_user_func(Object(Closure))
+#7 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(131): wpcf7_switch_locale('nl_NL', Object(Closure))
+#8 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(35): WPCF7_Submission->proceed()
+#9 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\contact-form.php(1048): WPCF7_Submission::get_instance(Object(WPCF7_ContactForm), Array)
+#10 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\rest-api.php(357): WPCF7_ContactForm->submit()
+#11 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1181): WPCF7_REST_Controller->create_feedback(Object(WP_REST_Request))
+#12 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/contact-form-7...', Array, NULL)
+#13 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#14 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api.php(410): WP_REST_Server->serve_request('/contact-form-7...')
+#15 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#16 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#17 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#18 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(399): do_action_ref_array('parse_request', Array)
+#19 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(780): WP->parse_request('')
+#20 D:\xampp\htdocs\autobedrijf\wp-includes\functions.php(1334): WP->main('')
+#21 D:\xampp\htdocs\autobedrijf\wp-blog-header.php(16): wp()
+#22 D:\xampp\htdocs\autobedrijf\index.php(17): require('D:\\xampp\\htdocs...')
+#23 {main}
+  thrown
+2023-06-23T09:58:46+00:00 Snippet "Verplaats afbeelding naar media library" (#462) was automatically deactivated due to a fatal error.
+2023-06-23T10:03:17+00:00 Uncaught ValueError: Path cannot be empty in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code:29
+Stack trace:
+#0 D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code(29): file_get_contents('')
+#1 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(310): cf7_create_post(Object(WPCF7_ContactForm))
+#2 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#4 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(767): do_action_ref_array('wpcf7_before_se...', Array)
+#5 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(103): WPCF7_Submission->before_send_mail()
+#6 [internal function]: WPCF7_Submission->{closure}()
+#7 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\l10n.php(147): call_user_func(Object(Closure))
+#8 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(131): wpcf7_switch_locale('nl_NL', Object(Closure))
+#9 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(35): WPCF7_Submission->proceed()
+#10 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\contact-form.php(1048): WPCF7_Submission::get_instance(Object(WPCF7_ContactForm), Array)
+#11 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\rest-api.php(357): WPCF7_ContactForm->submit()
+#12 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1181): WPCF7_REST_Controller->create_feedback(Object(WP_REST_Request))
+#13 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/contact-form-7...', Array, NULL)
+#14 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#15 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api.php(410): WP_REST_Server->serve_request('/contact-form-7...')
+#16 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#17 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#18 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#19 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(399): do_action_ref_array('parse_request', Array)
+#20 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(780): WP->parse_request('')
+#21 D:\xampp\htdocs\autobedrijf\wp-includes\functions.php(1334): WP->main('')
+#22 D:\xampp\htdocs\autobedrijf\wp-blog-header.php(16): wp()
+#23 D:\xampp\htdocs\autobedrijf\index.php(17): require('D:\\xampp\\htdocs...')
+#24 {main}
+  thrown
+2023-06-23T10:03:17+00:00 Snippet "Verplaats afbeelding naar media library" (#462) was automatically deactivated due to a fatal error.
+2023-06-23T10:05:32+00:00 Uncaught TypeError: file_get_contents(): Argument #1 ($filename) must be of type string, array given in D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code:29
+Stack trace:
+#0 D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code(29): file_get_contents(Array)
+#1 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(310): cf7_create_post(Object(WPCF7_ContactForm))
+#2 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#4 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(767): do_action_ref_array('wpcf7_before_se...', Array)
+#5 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(103): WPCF7_Submission->before_send_mail()
+#6 [internal function]: WPCF7_Submission->{closure}()
+#7 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\l10n.php(147): call_user_func(Object(Closure))
+#8 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(131): wpcf7_switch_locale('nl_NL', Object(Closure))
+#9 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(35): WPCF7_Submission->proceed()
+#10 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\contact-form.php(1048): WPCF7_Submission::get_instance(Object(WPCF7_ContactForm), Array)
+#11 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\rest-api.php(357): WPCF7_ContactForm->submit()
+#12 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1181): WPCF7_REST_Controller->create_feedback(Object(WP_REST_Request))
+#13 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/contact-form-7...', Array, NULL)
+#14 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#15 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api.php(410): WP_REST_Server->serve_request('/contact-form-7...')
+#16 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#17 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#18 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#19 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(399): do_action_ref_array('parse_request', Array)
+#20 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(780): WP->parse_request('')
+#21 D:\xampp\htdocs\autobedrijf\wp-includes\functions.php(1334): WP->main('')
+#22 D:\xampp\htdocs\autobedrijf\wp-blog-header.php(16): wp()
+#23 D:\xampp\htdocs\autobedrijf\index.php(17): require('D:\\xampp\\htdocs...')
+#24 {main}
+  thrown
+2023-06-23T10:05:32+00:00 Snippet "Verplaats afbeelding naar media library" (#462) was automatically deactivated due to a fatal error.
+2023-06-23T10:18:11+00:00 syntax error, unexpected integer "11"
+2023-06-23T10:18:22+00:00 syntax error, unexpected integer "11"
+2023-06-23T10:29:36+00:00 syntax error, unexpected token "?"
+2023-06-23T10:29:38+00:00 syntax error, unexpected token "?"
+2023-06-23T10:33:31+00:00 Undefined variable $afbeelding_url
+2023-06-23T10:34:10+00:00 Undefined variable $afbeelding_url
+2023-06-23T11:01:35+00:00 syntax error, unexpected token "?"
+2023-06-23T11:01:38+00:00 syntax error, unexpected token "?"
+2023-06-23T11:02:45+00:00 syntax error, unexpected token "?"
+2023-06-23T11:03:11+00:00 syntax error, unexpected token "?"
+2023-06-23T11:03:13+00:00 syntax error, unexpected token "?"
+2023-06-23T11:07:06+00:00 syntax error, unexpected token "?"
+2023-06-23T11:07:33+00:00 syntax error, unexpected token "?"
+2023-06-23T11:09:34+00:00 syntax error, unexpected token "?"
+2023-06-23T11:09:36+00:00 syntax error, unexpected token "?"
+2023-06-23T11:12:30+00:00 Undefined variable $afbeelding
+2023-06-23T11:12:52+00:00 Undefined property: stdClass::$afbeelding_filename
+2023-06-23T11:12:53+00:00 Undefined property: stdClass::$afbeelding_filename
+2023-06-23T11:13:41+00:00 Undefined variable $image_filename
+2023-06-23T11:13:59+00:00 Undefined variable $image_filename
+2023-06-23T11:14:18+00:00 Undefined variable $image_filename
+2023-06-23T11:14:56+00:00 Undefined property: stdClass::$afbeelding_filename
+2023-06-23T11:18:31+00:00 Undefined variable $upload_base_url
+2023-06-23T11:19:01+00:00 Undefined property: stdClass::$afbeelding_filename
+2023-06-23T11:26:23+00:00 Uncaught Error: Call to undefined function wp_handle_sideload() in D:\xampp\htdocs\autobedrijf\wp-admin\includes\media.php:462
+Stack trace:
+#0 D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code(56): media_handle_sideload(Array, 0)
+#1 D:\xampp\htdocs\autobedrijf\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(277) : eval()'d code(20): store_file_upload_to_media_library('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(310): save_cf7_form_data(Object(WPCF7_ContactForm))
+#3 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#5 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(767): do_action_ref_array('wpcf7_before_se...', Array)
+#6 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(103): WPCF7_Submission->before_send_mail()
+#7 [internal function]: WPCF7_Submission->{closure}()
+#8 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\l10n.php(147): call_user_func(Object(Closure))
+#9 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(131): wpcf7_switch_locale('nl_NL', Object(Closure))
+#10 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\submission.php(35): WPCF7_Submission->proceed()
+#11 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\contact-form.php(1048): WPCF7_Submission::get_instance(Object(WPCF7_ContactForm), Array)
+#12 D:\xampp\htdocs\autobedrijf\wp-content\plugins\contact-form-7\includes\rest-api.php(357): WPCF7_ContactForm->submit()
+#13 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1181): WPCF7_REST_Controller->create_feedback(Object(WP_REST_Request))
+#14 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/contact-form-7...', Array, NULL)
+#15 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api\class-wp-rest-server.php(442): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#16 D:\xampp\htdocs\autobedrijf\wp-includes\rest-api.php(410): WP_REST_Server->serve_request('/contact-form-7...')
+#17 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(308): rest_api_loaded(Object(WP))
+#18 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#19 D:\xampp\htdocs\autobedrijf\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#20 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(399): do_action_ref_array('parse_request', Array)
+#21 D:\xampp\htdocs\autobedrijf\wp-includes\class-wp.php(780): WP->parse_request('')
+#22 D:\xampp\htdocs\autobedrijf\wp-includes\functions.php(1334): WP->main('')
+#23 D:\xampp\htdocs\autobedrijf\wp-blog-header.php(16): wp()
+#24 D:\xampp\htdocs\autobedrijf\index.php(17): require('D:\\xampp\\htdocs...')
+#25 {main}
+  thrown
+2023-06-23T11:26:23+00:00 Snippet "Contactform data opslaan in database tabel ''Autos''" (#381) was automatically deactivated due to a fatal error.
+2023-06-23T11:27:40+00:00 Unclosed '{' on line 48
+2023-06-23T12:01:16+00:00 Undefined property: stdClass::$afbeelding_id
+2023-06-23T12:15:34+00:00 Unclosed '{' on line 3
+2023-06-23T12:15:34+00:00 Snippet "Contactform data opslaan in database tabel ''Autos''" (#381) was automatically deactivated due to a fatal error.

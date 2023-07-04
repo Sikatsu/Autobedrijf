@@ -20,7 +20,7 @@
       // Echo de resultaten in kaart formaat, toon een delete knop als gebruiker admin is
       ?>
 
-      <div class="card">
+<div class="card">
 	  <img src="<?php echo $afbeelding_url; ?>">
 	  <div class="wrapper-text">
 		<?php if (current_user_can('administrator')) : ?>
@@ -32,7 +32,7 @@
         <h2><?php echo $merk; ?> <?php echo $handelsbenaming; ?></h2>
         <p><?php echo $kenteken; ?></p>
         <p><?php echo $omschrijving; ?></p>
-        <p>€ <?php echo $prijs = number_format($prijs, 2, '.', ','); ?></p>
+        <p>€ <?php echo $prijs = number_format($prijs, 2, ',', '.'); ?></p>
       </div>
 	</div>
 

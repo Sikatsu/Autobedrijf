@@ -20,19 +20,19 @@
       // Echo de resultaten in kaart formaat, toon een delete knop als gebruiker admin is
       ?>
 
-      <div class="card">
+<div class="card">
 	  <img src="<?php echo $afbeelding_url; ?>">
 	  <div class="wrapper-text">
-        <h2><?php echo $kenteken; ?></h2>
-        <p><?php echo $merk; ?> <?php echo $handelsbenaming; ?></p>
-        <p><?php echo $omschrijving; ?></p>
-        <p>€ <?php echo $prijs = number_format($prijs, 2, '.', ','); ?></p>
 		<?php if (current_user_can('administrator')) : ?>
 		<form method="post">
           <input type="hidden" name="auto_id" value="<?php echo $auto_id; ?>">
           <button type="submit" name="delete_car" class="delete-button"><i class="fas fa-trash"></i></button>
         </form>
 		 <?php endif; ?>
+        <h2><?php echo $merk; ?> <?php echo $handelsbenaming; ?></h2>
+        <p><?php echo $kenteken; ?></p>
+        <p><?php echo $omschrijving; ?></p>
+        <p>€ <?php echo $prijs = number_format($prijs, 2, ',', '.'); ?></p>
       </div>
 	</div>
 

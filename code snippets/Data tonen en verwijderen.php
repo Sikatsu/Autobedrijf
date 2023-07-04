@@ -9,13 +9,13 @@
   // Data aanwezig? Haal waarden op uit elke rij van de resultaten
   if ($results) {
     foreach ($results as $row) {
-	  $auto_id = $row->id;
+	    $auto_id = $row->id;
       $kenteken = $row->kenteken;
       $merk = $row->merk;
-	  $handelsbenaming = $row->handelsbenaming;
+	    $handelsbenaming = $row->handelsbenaming;
       $omschrijving = $row->omschrijving;
       $prijs = $row->prijs;
-	  $afbeelding_url = $row->afbeelding_url;
+	    $afbeelding_url = $row->afbeelding_url;
 
       // Echo de resultaten in kaart formaat, toon een delete knop als gebruiker admin is
       ?>
